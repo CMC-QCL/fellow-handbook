@@ -6,32 +6,53 @@ date: "Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"
 ---
 
 ### Table of contents
-[Welcome to the QCL](#Welcome to the QCL)  
-[Dress code](#Dress code)  
-[Materials needed](#Materials needed)   
-[New Employee Sign On](#New Employee Sign On)   
-  [Before](#Before)    
+1. [Welcome to the QCL](#Welcome to the QCL)  
+2. [Dress code](#Dress code)  
+3. [Materials needed](#Materials needed)   
+4. [New Employee Sign On](#New Employee Sign On)   
+  a.[Before](#Before)    
+  b.[After](#After)  
+5. [Employee Materials](#Employee Materials)
+6. [Accounts and Software](#Accounts and Software)
+7. [Logins and Passwords](#Logins and Passwords)
+8. [Schedule](#Schedule)
+9. [Graduate Fellows Meeting](#Graduate Fellows Meeting)
+10. [Editing the QCL-CMC Website](#Editing the QCL-CMC Website)
+11. [Workshops](#Workshops)  
+  a.[Start of Semester](#Start of Semester)  
+  b.[Possible Workshops](#Possible Workshops)  
+  c.[Confirming Dates with Instructors](#Confirming Dates with Instructors)  
+  d.[Worksflow](#Worksflow)  
+      - [Two weeks before day of workshop](#Two weeks before day of workshop)      
+  
+___
 
-### Welcome to the QCL <a name="Welcome to the QCL"></a>
+### 1. Welcome to the QCL <a name="Welcome to the QCL"></a>
 Paragraph about QCL
 
 Mission Statement
 
-### Dress code <a name="Dress code"></a>
+*** 
+
+### 2. Dress code <a name="Dress code"></a>
 Office Casual
 
-### Materials needed  <a name="Materials needed "></a>
+___
+
+### 3. Materials needed  <a name="Materials needed "></a>
 - [ ]	Computer
 
-### New Employee Sign On <a name="New Employee Sign On"></a>
-#### Before <a name="Before"></a> 
+*** 
+
+### 4. New Employee Sign On <a name="New Employee Sign On"></a>
+#### a. Before <a name="Before"></a> 
 - [X]	Resume and Cover Letter and References   
 - [X]	Interview  
 - [X]	Acceptance  
 
-#### After 
-- [ ]	HR email 
-- [ ]	Orientation 
+#### b. After <a name="After"></a>
+- [X]	HR email 
+  - [ ]	Orientation 
   - [ ]	Workday 
       - [ ] IT will send you an email 
       - [ ] https://www.myworkday.com/theclaremontcolleges/d/home.htmld 
@@ -45,4 +66,267 @@ Office Casual
 - [ ] Download Software (Next page)  
 - [ ] Make Accounts (Next page)  
 
-![Claremont Campus Map](C:\Users\vcasi\Documents\GitHub\fellow-handbook\Images\Claremont_Map.jpg "Claremont Campus Map")
+___
+
+![Claremont Campus Map](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Claremont_Map.jpg?token=GHSAT0AAAAAABSRTQJAEGK5UEDKUP2OUEZCYR2QPIQ "Claremont Campus Map")
+
+***
+
+### 5. Employee Materials <a name="Employee Materials"></a> 
+
+- [ ]	Employee ID
+  - [ ]	Go to Connects in The Claremont Colleges Library Honnold Mudd (H on map, page 4)
+    - [ ]	Take picture 
+    - [ ]	Receive ID
+  - [ ]	Go to Story House (14 on map, page 4)
+    - [ ]	Get access to infrastructure (doors)
+    - [ ]	Also need a KEY for office room 
+- [ ]	Email and Username
+  - [ ]	Setup appointment for IT (Jeff)
+    - [ ]	Jeffrey.Ng@claremontmckenna.edu (jng@cmc.edu) or help@cmc.edu
+  - [ ]	Obtain computer access
+  - [ ]	Get put into system
+- [ ]	Kronos
+  - [ ]	Send email to Payroll
+    - [ ]	payroll@cmc.edu
+  - [ ]	Find Kronos in Workday
+  - [ ]	Log in hours 
+    - [ ]	Talk to Janna
+- [ ]	Health Documents
+  - [ ]	https://www.cmc.edu/healthscreen
+- [ ]	Training with EVERFI
+  - [ ]	Hazard Communication (CA)
+  - [ ] Protecting Youth
+  - [ ]	Preventing Harassment and Discrimination: Non-Supervisors
+  - [ ]	Injury & Illness Prevention
+  - [ ]	Data Security and Privacy
+  
+___
+
+### 6. Accounts and Software <a name="Accounts and Software"></a> 
+
+* CMC Self-Service Account Management    
+    - https://mypassword.claremontmckenna.edu/showLogin.cc    
+-	CMC Email  
+    - https://cmc.edu/mail/office365  
+      -	CMC e-mail address: firstname.lastname@claremontmckenna.edu  
+      -	Short-hand: firstthreelettersofyourfirstnameandwholelastname@cmc.edu   
+-	Dashboards Events  
+    -	https://events.cmc.edu/newemployeeusername/home  
+-	GitHub  
+    -	https://github.com/CMC-QCL  
+-	Workday  
+    -	https://www.myworkday.com/theclaremontcolleges/d/home.htmld (refer to page 3)  
+    -	Kronos (in here)  
+-	QCL Home page  
+    -	cmc.edu/login  
+    -	https://www.cmc.edu/qcl  
+-	Box   
+    -	https://claremontmckenna.account.box.com/login?redirect_url=%2Ffolder%2F0  
+-	Bit.ly  
+    -	No account (you will use it a lot)  
+    -	https://bitly.com/  
+-	Qualtrics  
+    -	https://qfreeaccountssjc1.az1.qualtrics.com/login?path=%2FQ%2FMyProjectsSection&product=project-store-proxy  
+-	Localist  
+    -	https://events.cmc.edu/admin  
+-	Zoom  
+    -	https://cmc-its.zoom.us  
+-	Teams  
+    -	Make sure to download desktop version and mobile as well  
+    -	https://teams.microsoft.com  
+- Instagram  
+    - https://www.instagram.com/cmc.qcl/  
+
+_Issues: contact another Graduate Fellow or IT (help@cmc.edu)_  
+
+***
+
+### 7. Logins and Passwords <a name="Logins and Passwords"></a>
+
+|Accounts                           |Username |Password |
+|:----------------------------------|:-------:|--------:|
+|CMC Self-Service Account Management|         |         |
+|CMC Email                          |         |         |
+|Dashboards Events                  |         |         |
+|GitHub                             |         |         |
+|Workday                            |         |         |
+|QCL Home page                      |         |         |
+|Box                                |         |         |
+|Bit.ly                             |         |         |
+|Qualtrics                          |         |         |
+|Localist                           |         |         |
+|Zoom                               |         |         |
+|Teams                              |         |         |
+|Instagram                          |         |         |
+_Firefox: bookmark websites_
+
+___
+
+### 8. Schedule <a name="Schedule"></a>
+
+__Important Dates__  
+
+* Team meetings  
+    -	Biweekly: Wednesdays 10am -11am  
+-	Graduate Fellow meetings  
+    -	Talk to Dr. Park to set up best time  
+    -	Current Fellow meeting: 9:30am-10am  
+    -	New Time: _______________________  
+-	Workshops   
+    -	Wednesdays 3pm-5pm or 4pm-6pm  
+    -	Fridays 9am-11am or 10am-12pm  
+-	Staff days
+    -	Janna will send out email    
+- Employees Schedule (20 hours a week)  
+    -	Talk to Dr. Park   
+
+
+|Monday	|Tuesday  |Wednesday |Thursday |Friday |
+|:------|:-------:|:--------:|:-------:|------:|
+|Workshop: 5pm – 7pm|Current Fellow meeting: 9:30am-10am|Biweekly Team meeting: 10am -11am|        |Workshop: 10am-12pm|
+
+_Days off: Holidays and Academic break_
+
+***
+
+### 9. Graduate Fellows Meeting <a name="Graduate Fellows Meeting"></a>
+
+* BOX  
+    -	Titled: QCL Fellows Meeting Agenda  
+    -	https://claremontmckenna.app.box.com/folder/0  
+    
+Photo2
+
+-	Agenda  
+    -	Write meeting notes  
+        - Before meeting  
+          - Let Dr. Park write minutes unless he asks you  
+    -	Follow along in the meeting  
+    -	TO DOs  
+        -	Your assignments for the week  
+
+Photo3
+
+___
+
+### 10. Editing the QCL-CMC Website <a name="Editing the QCL-CMC Website"></a>
+
+Every week, we update cmc.edu/qcl/qcl-workshop page, whenever we open or close registration + update our schedule
+
+In terms of website access:
+
+  1. Log in at cmc.edu/login
+  2. Go to cmc.edu/qcl
+  3. See “View,” “Edit,” and “Revisions” tabs right above body
+
+Photo4
+
+***
+
+### 11. Workshops <a name="Workshops"></a>
+
+#### a. Start of Semester <a name="Start of Semester"></a>
+
+*	Topics
+    -	Pick
+    -	Dr. Park in Fellows meeting
+-	Dates
+    -	Assign
+    -	Dr. Park in Fellows meeting
+-	Instructors 
+    -	Assign
+    -	Dr. Park in Fellows meeting
+
+#### b. Possible Workshops <a name="Possible Workshops"></a>
+
+*	Dr. Park
+    -	R Programming Basics  (level 1)   
+    -	Data Wrangling with R (level 2)
+    -	Tableau  (level 1)   
+-	Bhaven
+    -	Get Equipped with LaTeX  (level 1)               
+    -	Get Equipped with MATLAB  (level 1)      
+-	Vanessa
+    -	Excel (level 1)    
+    -	SQL (level 1)   (Find cloud based complier that imports files like csv and sql)
+    -	GIS (level 1) (ArcGIS Online for Mac and Windows)
+-	Sam Kim 
+    -	STATA  (level 1)
+    -	STATA (level 2) -- develop with Sam Lee
+-	Others (need instructors)
+    -	Julia = Alfonso Landeros alanderos@ucla.edu
+    -	XSEDE
+    -	Bash = Brad McCauley bmccauley@hmc.edu
+    -	Unix Shell and Git = Jeanine Finn jeanine.finn@claremont.edu
+    -	MS Power Automate as Pre to Power BI = Cindy Cheng cindy.cheng@cgu.edu
+    -	MS Power Query as Pre to Power BI = Cindy Cheng cindy.cheng@cgu.edu
+    -	Alteryx = Brandon Bak brandonbak@gmail.com 
+    -	Machine Learning = Aashita Kesarwani akesarwani@hmc.edu 
+    -	Python 
+    - Power BI = Jillian Seymour 
+    
+#### c. Confirming Dates with Instructors <a name="Confirming Dates with Instructors"></a>
+
+Subject: QCL Workshops - confirming dates
+
+Good afternoon Bhaven,  
+
+Happy Tuesday! I hope you are doing well! As the new semester approaches, I wanted to confirm if these dates work for you to instruct:  
+
+Monday, January 24, 2022, at 5pm - 7pm for Get Equipped with LaTeX as an online workshop  
+
+Monday, February 21, 2022, at 5pm - 7pm for Get Equipped with MATLAB (TBA as a hybrid, in-person, or online workshop due to the Covid policies)    
+
+We have only scheduled up to Spring Break, I will have to follow up in the future for the rest of the semester's dates. Do these dates and time work for you to instruct the workshops?
+
+Thank you,   
+Vanessa Arias Casillas  
+Graduate Fellow - Murty Sunak Quantitative and Computing Lab (QCL)  
+Claremont Mckenna College  
+vanessa.casillas@claremontmckenna.edu  
+
+#### d. Worksflow <a name="Worksflow"></a>
+
+__Two weeks before day of workshop__  <a name="Two weeks before day of workshop"></a>
+
+*	Contact Instructor  
+- Setup meeting
+    - Agenda of meeting
+    - Summary of localist
+    - Software
+    - Websites
+    - Licenses
+        
+___Instructors Notes turned into Summaries___
+
+Good afternoon [instructor’s name],  
+
+Happy Tuesday! I am looking forward to your dryrun of [workshop]! I am starting to create the registration page for the workshop and would like to get a bit of information from you about the workshop.   
+
+First, do you have a summary page for your workshop? I have an example of Sam Lee's below:   
+
+photo5   
+
+Second, do you have any pre-workshop requirements that the attendees need to do before the workshop? Like download programs or sign up for a license.  
+
+Third, what time did you want to do your workshop at 3pm-5pm or 4pm-6pm?  
+Fourth, would you like this workshop to be a hybrid, online only or in-person only?  
+Lastly, is there any information you would like me to let the attendees know about before walking into the workshop? like website where to download files or a note about the data.  
+Thank you for this information, it will help me in getting the workshop's registration ready.  
+
+Thank you,  
+Graduate Fellow - Murty Sunak Quantitative and Computing Lab (QCL)  
+
+___[QCL Workshop] Title___    
+
+About this Event  
+Title  
+Summary  
+Agenda:   
+Learning Objectives: (You will learn how to)   
+Prerequisite:    
+Location:    
+Participants:   
+
+
