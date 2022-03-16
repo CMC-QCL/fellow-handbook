@@ -23,7 +23,8 @@ date: "Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"
   b.[Possible Workshops](#Possible Workshops)  
   c.[Confirming Dates with Instructors](#Confirming Dates with Instructors)  
   d.[Worksflow](#Worksflow)  
-      - [Two weeks before day of workshop](#Two weeks before day of workshop)      
+      - [Two weeks before day of workshop](#Two weeks before day of workshop)
+      - [One week before day of workshop](#One week before day of workshop)
   
 ___
 
@@ -196,7 +197,7 @@ _Days off: Holidays and Academic break_
     -	Titled: QCL Fellows Meeting Agenda  
     -	https://claremontmckenna.app.box.com/folder/0  
     
-Photo2
+![QCL Fellows Meeting Agenda](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture2.png?token=GHSAT0AAAAAABQHYZSEQDK54EPONUMMGKSUYR2TXCQ)
 
 -	Agenda  
     -	Write meeting notes  
@@ -206,7 +207,7 @@ Photo2
     -	TO DOs  
         -	Your assignments for the week  
 
-Photo3
+![Your assignments for the week](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture3.png?token=GHSAT0AAAAAABQHYZSEVEDCJCUX63ECFNBCYR2TYKQ)
 
 ___
 
@@ -220,7 +221,7 @@ In terms of website access:
   2. Go to cmc.edu/qcl
   3. See “View,” “Edit,” and “Revisions” tabs right above body
 
-Photo4
+![website access](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture4.png?token=GHSAT0AAAAAABQHYZSF4AJT2DLWNTMO2VOKYR2TZUQ)
 
 ***
 
@@ -286,9 +287,11 @@ Graduate Fellow - Murty Sunak Quantitative and Computing Lab (QCL)
 Claremont Mckenna College  
 vanessa.casillas@claremontmckenna.edu  
 
+___
+
 #### d. Worksflow <a name="Worksflow"></a>
 
-__Two weeks before day of workshop__  <a name="Two weeks before day of workshop"></a>
+##### Two weeks before day of workshop  <a name="Two weeks before day of workshop"></a>
 
 *	Contact Instructor  
 - Setup meeting
@@ -306,10 +309,9 @@ Happy Tuesday! I am looking forward to your dryrun of [workshop]! I am starting 
 
 First, do you have a summary page for your workshop? I have an example of Sam Lee's below:   
 
-photo5   
+![example of Sam Lee's](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture5.png?token=GHSAT0AAAAAABQHYZSEHQGEXMFLADQ7N6KUYR2T32A)
 
-Second, do you have any pre-workshop requirements that the attendees need to do before the workshop? Like download programs or sign up for a license.  
-
+Second, do you have any pre-workshop requirements that the attendees need to do before the workshop? Like download programs or sign up for a license.    
 Third, what time did you want to do your workshop at 3pm-5pm or 4pm-6pm?  
 Fourth, would you like this workshop to be a hybrid, online only or in-person only?  
 Lastly, is there any information you would like me to let the attendees know about before walking into the workshop? like website where to download files or a note about the data.  
@@ -329,4 +331,112 @@ Prerequisite:
 Location:    
 Participants:   
 
+___Example Instructors Notes turned into Summaries___   
+
+_[QCL Workshop] R Programming Basics (Level 1 – Coding)_
+
+About this Event
+
+R Programming Basics (Level 1 - Coding)
+ 
+Summary:  
+R is an open-source statistical programming language. R is widely used in industry as well as in academia for statistical analysis and data visualization. In this workshop, we introduce the basics of the R language and its programming environment through simple hands-on examples.
+This workshop is designed for beginners in R programming, so no prior knowledge of R programming is needed. However, general programming knowledge in any programming language will be help understand the programming concepts.
+We will be using RStudio Cloud for hands-on. Please create a free account at https://rstudio.cloud before join the workshop.
+
+Agenda:  
+•	Basics of R and RStudio
+•	R Programming Environment: Workspace, Working Directory, Package
+•	R objects (data structure and function)
+•	R packages for data import and export
+•	R graphics for simple plotting methods
+•	Basic statistical analysis using R
+
+Location:  
+Hybrid (In-person: QCL Classroom, Online: Zoom information will be provided to the attendees after registration)
+Click here to find your way to the QCL.
+
+Participants:  
+CMC Students, Faculty, and Staff   
+___
+
+_Data Wrangling with R (Level 2 - Data)_
+
+Summary:  
+Data wrangling is the process of obtaining, cleaning, reshaping, and transforming raw (and messy) data into a useable form of processed (and tidy) data. It is known that a majority of data analysts and data scientists spend as much as 80% of their time on data wrangling. So it's essential to get familiar with good data wrangling tools that help you save time and avoid errors. In this hands-on workshop, you will learn basic skills to import, export, clean, reshape, transform, and visualize data using well-known data science package called tidyverse.
+
+Learning Objectives: (You will learn how to)  
+Import and export data
+Clean, reshape and transform data
+Make messy data into tidy data
+Visualize tidy data using ggplot2 (if time permits)
+
+Prerequisites:  
+Basic knowledge of R and RStudio (e.g., R Programming for Beginners - Level 1)
+RStudio Cloud account; if you don't have one yet, please create a new account from https://rstudio.cloud site.
+Tidyverse package; please make sure that you have installed the tidyverse package in your R environment. See https://www.tidyverse.org for more information.
+
+Location:  
+Hybrid (In-person: QCL Classroom, Online: Zoom information will be provided to the attendees after registration)
+Click here to find your way to the QCL.
+
+Participants:  
+CMC Students, Faculty, and Staff   
+___
+
+_GIS - Part 2 (Level 1 - Data) Workshop_
+
+About this Event
+
+Summary:  
+This workshop will introduce you to the ever-expanding and fascinating world of geographic information systems (GIS). In three 2-hour sessions you will learn about what GIS is, how it is used in a multitude of industries and fields, and how to get started using GIS software. We will examine GIS concepts and software tools used to visualize real-world features, discover patterns, and communicate information. Primarily using ArcGIS Online (if you can hyperlink: https://doc.arcgis.com/en/arcgis-online/get-started/what-is-agol.htm) you will work with GIS maps, explore data, and analyze maps and data as you learn fundamental concepts that underlie GIS technology.
+Through a series of presentations, in-class tutorials, and homework assignments this workshop will give you a strong beginning foundation on how to make maps and explore spatial data to identify patterns and insights in your data you never knew possible. You will come away from this workshop with the understanding you need to start working with GIS and utilize it in your own work and explorations. You do not need any previous experience – just your own curiosity! 
+Students in this workshop (in fact, all Claremont Colleges students) have free access to a wide variety Esri GIS products. For more information, check out the Claremont Colleges Library Geographic Information System (GIS) Services home page, https://library.claremont.edu/gis/ 
+
+Learning Objectives: (You will learn how to)  
+Topics will include: 
+•	Introduction to the GIS Platform 
+•	Theoretical basis of GIS and the Geographic Approach 
+•	What can you do with GIS? 
+•	Understanding GIS data 
+•	An introduction to Coordinate systems and Projections 
+•	Acquiring and selecting GIS Data 
+•	Utilizing and preparing your own data for GIS 
+•	Creating maps – basic cartography, symbology 
+•	The US Census and GIS 
+•	Introductory Spatial Analysis 
+•	Sharing results – physical maps and the world online maps 
+
+Location:  
+The following event will be conducted in a hybrid format:
+•	Virtual: Zoom
+•	In-Person: QCL Classroom
+
+Participants:  
+7C Students, Faculty and Staff  
+___
+
+##### One week before day of workshop  <a name="One week before day of workshop"></a>
+
+Moderator
+
+* If you are instructing 
+    - Ask for whoever moderator a week before or instruct and moderate yourself.
+
+Zoom
+
+Go to meetings pic 6
+
+Click on Schedule a meeting pic 7
+
+Go to QCL workshop schedule pic 8
+
+Look for workshop you are working on pic 9
+
+Fill in meeting information on Zoom then click save
+  Description (Optional) comes from Instructor’s meeting pic 10
+  
+You will see this pic 11
+
+On meeting tab, it should there pic 12
 
