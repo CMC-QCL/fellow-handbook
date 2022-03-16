@@ -25,6 +25,8 @@ date: "Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"
   d.[Worksflow](#Worksflow)  
       - [Two weeks before day of workshop](#Two weeks before day of workshop)
       - [One week before day of workshop](#One week before day of workshop)
+        - [Moderator](#Moderator)
+        - [Zoom](#Zoom)
   
 ___
 
@@ -291,7 +293,7 @@ ___
 
 #### d. Worksflow <a name="Worksflow"></a>
 
-##### Two weeks before day of workshop  <a name="Two weeks before day of workshop"></a>
+#### Two weeks before day of workshop  <a name="Two weeks before day of workshop"></a>
 
 *	Contact Instructor  
 - Setup meeting
@@ -416,27 +418,95 @@ Participants:
 7C Students, Faculty and Staff  
 ___
 
-##### One week before day of workshop  <a name="One week before day of workshop"></a>
+#### One week before day of workshop  <a name="One week before day of workshop"></a>
 
-Moderator
+__Moderator__ <a name="Moderator"></a>
 
 * If you are instructing 
     - Ask for whoever moderator a week before or instruct and moderate yourself.
 
-Zoom
+__Zoom__ <a name="Zoom"></a>
 
-Go to meetings pic 6
+Step 1: Go to meetings      
+![Go to meetings](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture6.png?token=GHSAT0AAAAAABQHYZSE6MSJ2F3BFWBHTLK6YR2U27Q)  
 
-Click on Schedule a meeting pic 7
+Step 2: Click on Schedule      
+![Click on Schedule](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture7.png?token=GHSAT0AAAAAABQHYZSEXEJ7Y5WPF3OJWSSYYR2U6CQ)
 
-Go to QCL workshop schedule pic 8
+Step 3: Go to QCL workshop  
+![Go to QCL workshop](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture8.png?token=GHSAT0AAAAAABQHYZSFXW3ZERAF3VRPK2TSYR2U6DQ)
 
-Look for workshop you are working on pic 9
+Step 4: Look for workshop you are working      
+![Look for workshop you are working](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture9.png?token=GHSAT0AAAAAABQHYZSEUEWGYDWYUKRSQ42OYR2U6EA)
 
-Fill in meeting information on Zoom then click save
-  Description (Optional) comes from Instructor’s meeting pic 10
-  
-You will see this pic 11
+Step 5: Fill in meeting information on Zoom then click save,   
+Description (Optional) comes from Instructor’s meeting    
+![Fill in meeting information on Zoom then click save, Description (Optional) comes from Instructor’s meeting](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture10.png?token=GHSAT0AAAAAABQHYZSFVUDX4IYQ6FDYW256YR2U6FQ)
 
-On meeting tab, it should there pic 12
+Step 6: You will see this   
+![You will see this](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture11.png?token=GHSAT0AAAAAABQHYZSFAEJN323XN3CR6QHYYR2U6GA)
+
+Step 7: On meeting tab, it should there    
+![On meeting tab, it should there](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture12.png?token=GHSAT0AAAAAABQHYZSEFGAFFKTHWSTTNBROYR2U6GQ)
+
+
+Localist
+o	Start by copying an old event
+	Make sure you are working on copy
+o	Fill in all information (Like below)
+	Click “Include Above in Schedule”
+	Delete the old Confirmed dates
+	Description is made from Instructor’s meeting
+Pic 1
+
+o	Fill out Location (Like below)
+	Check if event is only in-person, only virtual or hybrid
+Pic2
+
+o	Change the Owner to yourself 	
+	Check Vanity URL (qcl_workshop_stata_fa21_1117)
+pic3
+
+o	Add a Ticket Types
+	Virtual or In-Person (or both)
+	Make sure Virtual is always on Top
+pic4
+
+o	Add a Virtual ticket name is ZOOM and drag to the right ticket type (pic wrong)
+	Then go into additional ticket options
+pic5
+
+o	Check to make sure settings are correct
+o	Make sure Ticket availability dates correctly dated or left blank if you will manual turn off
+pic6
+
+o	Add in-person ticket named QCL CLASSROOM and drag to the right ticket type  (pic wrong)
+	Then go into additional ticket options
+pic7
+
+o	Check to make sure setting are correct
+pic8
+
+
+o	Check to make sure that Attendees Questions are correct
+
+1.	"Please enter your student ID # (Must be 8 characters). For all faculty/staff/non-Claremont Colleges person, please insert 00000000." (Required)
+2.	"Please indicate gender (male or female)"
+3.	"Which one of the Claremont Colleges are you from?" (Required)
+4.	"If not from the Claremont Colleges, where are you from?"
+5.	"Are you a Freshman, Sophomore, Junior, Senior, Graduate Student, Faculty, Staff or Other?" (Required)
+6.	"If Other, please specify:"
+pic 9
+
+o	Check to make sure you have the correct Event Capacity
+pic10
+
+o	Publish or NOT
+	Make sure if you are publishing that the checkmark is checked 
+	But if you want another Fellow to review then make sure publish is not checked
+	Then Click Save
+o	TEST! TEST! TEST! 
+	when you set up the registration pages, please test them by registering for the workshops and see if everything works fine including the email confirmation, Zoom links, etc. 
+o	Send Dr. Park an email + post a message on Teams so that I can announce them.
+pic 11
 
