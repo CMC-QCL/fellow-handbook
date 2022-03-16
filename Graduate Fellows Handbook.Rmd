@@ -1,0 +1,48 @@
+---
+title: "Graduate Fellows Handbook"
+subtitle: "New employee guide"
+output: html_notebook
+date: "Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"
+---
+
+### Table of contents
+[Welcome to the QCL](#Welcome to the QCL)  
+[Dress code](#Dress code)  
+[Materials needed](#Materials needed)   
+[New Employee Sign On](#New Employee Sign On)   
+  [Before](#Before)    
+
+### Welcome to the QCL <a name="Welcome to the QCL"></a>
+Paragraph about QCL
+
+Mission Statement
+
+### Dress code <a name="Dress code"></a>
+Office Casual
+
+### Materials needed  <a name="Materials needed "></a>
+- [ ]	Computer
+
+### New Employee Sign On <a name="New Employee Sign On"></a>
+#### Before <a name="Before"></a> 
+- [X]	Resume and Cover Letter and References   
+- [X]	Interview  
+- [X]	Acceptance  
+
+#### After 
+- [ ]	HR email 
+- [ ]	Orientation 
+  - [ ]	Workday 
+      - [ ] IT will send you an email 
+      - [ ] https://www.myworkday.com/theclaremontcolleges/d/home.htmld 
+  - [ ] Signed documents 
+  - [ ] Show U.S. Citizenship/VISA 
+  - [ ] Get temporary permit for parking  
+      - [ ] Park in CMC permit parking or on the street (no permit needed)(map on page 4)  
+- [ ] Talk about Schedule  
+- [ ] Shadow a workshop  
+- [ ] Employee Materials (Next page)  
+- [ ] Download Software (Next page)  
+- [ ] Make Accounts (Next page)  
+
+![Claremont Campus Map](C:\Users\vcasi\Documents\GitHub\fellow-handbook\Images\Claremont_Map.jpg "Claremont Campus Map")
