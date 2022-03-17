@@ -1,11 +1,11 @@
 # New Employee Sign On 
 
-#### a. Before <a name="Before"></a> 
+## Before 
 - [X]	Resume and Cover Letter and References   
 - [X]	Interview  
 - [X]	Acceptance  
 
-#### b. After <a name="After"></a>
+## After
 - [X]	HR email 
   - [ ]	Orientation 
   - [ ]	Workday 

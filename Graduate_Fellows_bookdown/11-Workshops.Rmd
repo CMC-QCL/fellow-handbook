@@ -1,6 +1,6 @@
 # Workshops  
 
-#### a. Start of Semester <a name="Start of Semester"></a>
+## Start of Semester
 
 *	Topics
     -	Pick
@@ -12,7 +12,7 @@
     -	Assign
     -	Dr. Park in Fellows meeting
 
-#### b. Possible Workshops <a name="Possible Workshops"></a>
+## Possible Workshops
 
 *	Dr. Park
     -	R Programming Basics  (level 1)   
@@ -40,7 +40,7 @@
     -	Python 
     - Power BI = Jillian Seymour 
     
-#### c. Confirming Dates with Instructors <a name="Confirming Dates with Instructors"></a>
+## Confirming Dates with Instructors
 
 Subject: QCL Workshops - confirming dates
 
@@ -62,10 +62,9 @@ vanessa.casillas@claremontmckenna.edu
 
 ___
 
-#### d. Worksflow <a name="Worksflow"></a>
+## Worksflow
 
-#### Two weeks before day of workshop  <a name="Two weeks before day of workshop"></a>
-
+### Two weeks before day of workshop
 *	Contact Instructor  
 - Setup meeting
     - Agenda of meeting
@@ -189,7 +188,7 @@ Participants:
 7C Students, Faculty and Staff  
 ___
 
-#### One week before day of workshop  <a name="One week before day of workshop"></a>
+### One week before day of workshop
 
 __Moderator__ <a name="Moderator"></a>
 
@@ -318,7 +317,7 @@ Step 11:
 ![Publish or NOT](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist11.png?token=GHSAT0AAAAAABQHYZSFOUTVRATRJCHFRTE6YR2WIWA)
 
 
-#### Two days before day of workshop <a name="Two days before day of workshop"></a>
+### Two days before day of workshop
 _Close Registration for workshop_  
 
 Step 1:  
@@ -334,7 +333,7 @@ Step 2:
 * You should see the ticket status as inactivate     
 ![You should see the ticket status as inactivate  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Twodays2.png?token=GHSAT0AAAAAABQHYZSEODR3PQ7UX5MCXLFGYR33BBQ)  
 
-#### Day before day of workshop <a name="Day before day of workshop"></a>
+### Day before day of workshop
 
 __Qualtrics__ <a name="Qualtrics"></a>
 
@@ -509,7 +508,7 @@ __Attendees Emails__ <a name="Attendees Emails"></a>
 *	Open CSV and copy emails into your reminder email  
 ![Open CSV and copy emails into your reminder email](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees5.png?token=GHSAT0AAAAAABQHYZSFR7C4WRV7FXZS5XZSYR34WKQ)  
 
-#### Day of workshop <a name="Day of workshop"></a>
+### Day of workshop
 
 __Moderator checklist__ <a name="Moderator checklist"></a>
 
@@ -549,7 +548,7 @@ Thank you! Please sign-out: https://bit.ly/3EIOgdX
 -	Send zoom meeting recordings to attendees that attended
     -	Note: after every semester we dump recordings into a box file, before CMC does it
 
-#### Day after workshop <a name="Day after workshop"></a>
+### Day after workshop
 
 __Qualtrics__ <a name="Qualtrics"></a>
 
@@ -589,7 +588,7 @@ Thank you,
 (your name)
 QCL Graduate Fellow
 
-#### Workshop Issues <a name="Workshop Issues"></a>
+### Workshop Issues
 
 __New attendees after closed registration__
 
@@ -655,7 +654,7 @@ __Check attendee’s emails__
 
 *	Fix emails, sometimes they misspell their emails
 
-#### e. Buying a ticket – Making sure it works <a name="Buying a ticket – Making sure it works"></a>
+## Buying a ticket – Making sure it works
 pic3
 ![pic3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying1.png?token=GHSAT0AAAAAABQHYZSEAFJXIGCEG5G6GJ2YYR37A3A)  
 pic4
@@ -671,7 +670,7 @@ pic8
 pic9
 ![pic9](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying7.png?token=GHSAT0AAAAAABQHYZSFJYCEZRTXOBKKSXWWYR37A7A)
  
-#### f. Changing Website <a name="Changing Website"></a>
+## Changing Website
 
 pic10
 ![pic10](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website1.png?token=GHSAT0AAAAAABQHYZSF424DMO6WYEUA6L4SYR37DLQ)
@@ -682,7 +681,7 @@ pic12
 pic13
 ![pic13](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website4.png?token=GHSAT0AAAAAABQHYZSEPS3BFP6GID2MUBQSYR37DOA)
 
-#### g. Checklist for a Typical Workday <a name="Checklist for a Typical Workday"></a>
+## Checklist for a Typical Workday
 
 This is if there is no workshop or appointment going on
 
@@ -721,7 +720,7 @@ This is if there is no workshop or appointment going on
 -	Workday
     -	Put in schedule
     
-#### h. Building a Workshop <a name="Building a Workshop"></a>
+## Building a Workshop
 
 __Github__ <a name="Github"></a>
 
@@ -770,7 +769,7 @@ __Files__ <a name="Files"></a>
     -	Hand-on activities 
 -	Other files of interest
 
-#### i. Workshops Building <a name="Workshops Building"></a>
+## Workshops Building
 
 *	In the past, the way we offer our workshop to specific institute like Lowe was that we (Cindy) worked with their admin or student leader to find good times for their fellows and RAs and offer a separate workshop(s) for them. I am thinking we would want to offer them a separate GIS workshop(s).
 
@@ -794,7 +793,7 @@ Brad McCauley bmccauley@hmc.edu (bash script)
  
 SQL dataset used for Fall 2020 attached. 
 
-#### j. Zoom Recording Downloads <a name="Zoom Recording Downloads"></a>
+## Zoom Recording Downloads
 
 We are reaching out today with a friendly and important reminder to please transfer or delete your older Zoom cloud recordings within your Zoom account to help ensure that we can continue to provide this service to our faculty and staff without accruing additional storage expenses.
 
@@ -847,7 +846,7 @@ pic26
 pic27
 ![pic27](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording11.png?token=GHSAT0AAAAAABQHYZSFQU6HR6EGUVNOGMVCYR37JIQ)
 
-#### k. Qualtrics Make a Workflow <a name="Qualtrics Make a Workflow"></a>
+## Qualtrics Make a Workflow
 
 *	Sign-in Survey
 
@@ -913,7 +912,7 @@ qual28
 
 ___
 
-#### l. How to schedule meetings on Zoom <a name="How to schedule meetings on Zoom"></a>
+## How to schedule meetings on Zoom
 
 meeting1
 ![meeting1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting1.png?token=GHSAT0AAAAAABQHYZSE24L6RMFSN4G7AUOOYR37YIA)

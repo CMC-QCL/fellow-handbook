@@ -3,9 +3,7 @@
 impact1
 ![impact1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Impact1.png?token=GHSAT0AAAAAABQHYZSEVEU3G53QQ3BZQXQQYR37Y5A)
 
-___
-
-#### a. Qualtrics – Reports  <a name="Qualtrics – Reports"></a>
+## Qualtrics – Reports
 ReportsQ1
 ![ReportsQ1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq1.png?token=GHSAT0AAAAAABQHYZSEK6DVIFJSRAILBOAMYR3756A)
 ReportsQ2
@@ -25,7 +23,7 @@ ReportsQ8
 ReportsQ9
 ![ReportsQ9](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq9.png?token=GHSAT0AAAAAABQHYZSFVO4P7ADUHB6QWGE2YR376BQ)
 
-#### b. Localist – Reports  <a name="Localist – Reports"></a>
+## Localist – Reports
 ReportsL1
 ![ReportsL1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl1.png?token=GHSAT0AAAAAABQHYZSE2XYALVHHPH6Q6HQGYR377YQ)
 ReportsL2
@@ -43,7 +41,7 @@ ReportsL7
 ReportsL8
 ![ReportsL8](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl8.png?token=GHSAT0AAAAAABQHYZSE2A63PDIJIXTE5RFCYR3774A)
 
-#### c. Summaries  <a name="Summaries"></a>
+## Summaries
 summaries1
 ![summaries1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Summaries1.png?token=GHSAT0AAAAAABQHYZSEVMXGEE3IYWDWBB5YYR4ABNA)
 
@@ -75,8 +73,7 @@ sumq4
 sumq5
 ![sumq5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq5.png?token=GHSAT0AAAAAABQHYZSFIZOKNIGJC6Q5BU3AYR4ADCQ)
 
-#### d. Rough Draft Impact Report  <a name="Rough Draft Impact Report"></a>
-
+## Rough Draft Impact Report
 Rough1
 ![Rough1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough1.png?token=GHSAT0AAAAAABQHYZSEC4CUOYRAPV7JNCWAYR4AEGA)
 Rough2
