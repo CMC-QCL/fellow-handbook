@@ -878,10 +878,10 @@ Best regards,
 QCL Graduate Fellow (put your name here)  
 
 * Issue Ticket tab on Confirmed Tickets page
-Pic1
+![Issue Ticket tab on Confirmed Tickets page](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Issues1.png?token=GHSAT0AAAAAABQHYZSFWCJTJPCOOVZB6BMCYR3662A)  
 
 *	Fill in all info
-Pic2
+![Fill in all info](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Issues2.png?token=GHSAT0AAAAAABQHYZSFGNXR2K3YP4MPAUKIYR3662Q)  
 
 *	After filling out the form, the attendee will get an email from Localist
     -	Send out an email follow up to the new attendee
@@ -921,20 +921,31 @@ __Check attendee’s emails__
 *	Fix emails, sometimes they misspell their emails
 
 #### e. Buying a ticket – Making sure it works <a name="Buying a ticket – Making sure it works"></a>
- pic3
- pic4
- pic5
- pic6
- pic7
- pic8
- pic9
+pic3
+![pic3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying1.png?token=GHSAT0AAAAAABQHYZSEAFJXIGCEG5G6GJ2YYR37A3A)  
+pic4
+![pic4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying2.png?token=GHSAT0AAAAAABQHYZSEJ6IPZ3I33FFLKKKWYR37A4A)  
+pic5
+![pic5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying3.png?token=GHSAT0AAAAAABQHYZSFNCRRMHYYIG6XM63SYR37A4Q)  
+pic6
+![pic6](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying4.png?token=GHSAT0AAAAAABQHYZSFR3JR4OJXIYRQOHHOYR37A4Q)  
+pic7
+![pic7](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying5.png?token=GHSAT0AAAAAABQHYZSFFCYR37LJGG5KPU76YR37A5Q)  
+pic8
+![pic8](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying6.png?token=GHSAT0AAAAAABQHYZSFC3TW45QTT24S7IEMYR37A6A)  
+pic9
+![pic9](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying7.png?token=GHSAT0AAAAAABQHYZSFJYCEZRTXOBKKSXWWYR37A7A)
  
 #### f. Changing Website <a name="Changing Website"></a>
 
 pic10
+![pic10](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website1.png?token=GHSAT0AAAAAABQHYZSF424DMO6WYEUA6L4SYR37DLQ)
 pic11
+![pic11](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website2.png?token=GHSAT0AAAAAABQHYZSFDBFXWK6DHPJLR2B4YR37DMQ)
 pic12
+![pic12](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website3.png?token=GHSAT0AAAAAABQHYZSFHHNPWTPCECXAZXPCYR37DNQ)
 pic13
+![pic13](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website4.png?token=GHSAT0AAAAAABQHYZSEPS3BFP6GID2MUBQSYR37DOA)
 
 #### g. Checklist for a Typical Workday <a name="Checklist for a Typical Workday"></a>
 
@@ -944,7 +955,7 @@ This is if there is no workshop or appointment going on
     -	Write back to anyone
     -	Send any emails that have been on TODO list
     -	Organize your emails in their respective folders
-pic14
+![Organize your emails in their respective folders](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Checklist1.png?token=GHSAT0AAAAAABQHYZSEWFYFXOGNZOIRQCD2YR37EVA)
 -	Update QCL website
 -	Day after workshop
     -	Send out email of closing workshop
@@ -978,7 +989,8 @@ pic14
 #### h. Building a Workshop <a name="Building a Workshop"></a>
 
 __Github__ <a name="Github"></a>
-pic15
+
+![pic15](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Building1.png?token=GHSAT0AAAAAABQHYZSEFOTOYD3FTUQAX2TUYR37FSA)
 
 *	Files needed in Github
     -	Pre-workshop requirements
@@ -986,7 +998,8 @@ pic15
     -	Files for hand-on activities
     -	README.md 
         -	A summary of the workshop for localist and zoom
-pic16
+
+![A summary of the workshop for localist and zoom](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Building2.png?token=GHSAT0AAAAAABQHYZSFGE7LSNWTU5HKIM36YR37FSQ)
 
 __Pre-workshop requirements PDF__ <a name="Pre-workshop requirements PDF"></a>
 
@@ -1058,23 +1071,23 @@ Action Needed:
 
 _How to Download Your Zoom Cloud Recordings:_
 
-1.	Login to the Zoom.us web portal (https://zoom.us) 
+1. Login to the Zoom.us web portal (https://zoom.us) 
 
-2.	In the left-hand navigation menu, click Recordings (direct link: https://zoom.us/recording)
+2. In the left-hand navigation menu, click Recordings (direct link: https://zoom.us/recording)
 
-3.	Click More next to a meeting recording and click Download
+3. Click More next to a meeting recording and click Download
 
-pic17
+![Click More next to a meeting recording and click Download](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording1.png?token=GHSAT0AAAAAABQHYZSE62MPXWLO7RAVXLT2YR37G7Q)
 
-4.	Click Download on the pop-up that appears
+4. Click Download on the pop-up that appears
 
-pic18
+![Click Download on the pop-up that appears](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording2.png?token=GHSAT0AAAAAABQHYZSEDGFDZMEIKP7HMG7SYR37HBA)
 
-5.	Click Allow if prompted for permission to Download multiple files.
+5. Click Allow if prompted for permission to Download multiple files.
 
-pic19
+![Click Allow if prompted for permission to Download multiple files.](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording3.png?token=GHSAT0AAAAAABQHYZSEFR6W6JMYF4LAP262YR37HCA)
 
-6.	Check your Downloads folder for your recording files (.m4a for audio and .mp4 for video)
+6. Check your Downloads folder for your recording files (.m4a for audio and .mp4 for video)
 
 Once downloaded, you can upload your files to your Box account (https://claremontmckenna.box.com). Box has a very large storage capacity per user and can be increased when necessary.
 
@@ -1083,73 +1096,183 @@ Once your files are on Box or stored somewhere safe off Zoom, you can share your
 Alternatively, if you’d like to use local recording instead with Zoom, we have attached guides for this as well.  However, we only recommend this for non-critical events and for use outside of the classroom setting.
 
 pic20
+![pic20](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording4.png?token=GHSAT0AAAAAABQHYZSFFBRNZCE73YNQDQA2YR37JEQ)
 pic21
+![pic21](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording5.png?token=GHSAT0AAAAAABQHYZSFFY4ZCYXKFX7QENZUYR37JEQ)
 pic22
+![pic22](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording6.png?token=GHSAT0AAAAAABQHYZSFI6NFT74NMRKJD62CYR37JFA)
 pic23
+![pic23](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording7.png?token=GHSAT0AAAAAABQHYZSEHPDCRTORT2XWDEFGYR37JGA)
 pic24
+![pic24](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording8.png?token=GHSAT0AAAAAABQHYZSE7T2RLT63GUX22AGMYR37JGQ)
 pic25
+![pic25](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording9.png?token=GHSAT0AAAAAABQHYZSE642CXKBLSFSNXCL4YR37JHA)
 pic26
+![pic26](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording10.png?token=GHSAT0AAAAAABQHYZSEJT5QOBTICOAS2IRAYR37JIA)
 pic27
+![pic27](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording11.png?token=GHSAT0AAAAAABQHYZSFQU6HR6EGUVNOGMVCYR37JIQ)
 
 #### k. Qualtrics Make a Workflow <a name="Qualtrics Make a Workflow"></a>
 
 *	Sign-in Survey
 
 qual1
+![qual1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual1.png?token=GHSAT0AAAAAABQHYZSFAVJYDNSGBSMCS6YIYR37RKA)
 qual2
+![qual2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual2.png?token=GHSAT0AAAAAABQHYZSFGDKV4VYMVR2SM5Y6YR37RMA)
 qual3
+![qual3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual3.png?token=GHSAT0AAAAAABQHYZSE6I6LWORMAWN2GJWOYR37RNA)
 qual4
+![qual4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual4.png?token=GHSAT0AAAAAABQHYZSFH6S2YMKMD7R7TE6CYR37RNQ)
 qual5
+![qual5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual5.png?token=GHSAT0AAAAAABQHYZSEOSFZWD7HN47ROR3SYR37ROA)
 qual6
-qual7-16
+![qual6](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual6.png?token=GHSAT0AAAAAABQHYZSECYUJA2DVCQDGTL62YR37ROQ)
+qual7
+![qual7](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual7.png?token=GHSAT0AAAAAABQHYZSENZPEXZQ6RGXAKSOKYR37RRA)
+qual8
+![qual8](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual8.png?token=GHSAT0AAAAAABQHYZSEGHRTHBWHYCKCSM3SYR37STQ)
+qual9
+![qual9](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual9.png?token=GHSAT0AAAAAABQHYZSFL6LKT4TI3DORXQ3CYR37SUA)
+qual10
+![qual10](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual10.png?token=GHSAT0AAAAAABQHYZSEX6YQPGELBBWD7R2QYR37SVQ)
+qual11
+![qual11](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual11.png?token=GHSAT0AAAAAABQHYZSFGPJ3ZRZY6D35D3G4YR37SWA)
+qual12
+![qual12](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual12.png?token=GHSAT0AAAAAABQHYZSFQIZKLV3YF6B2RSIUYR37SWQ)
+qual13
+![qual13](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual13.png?token=GHSAT0AAAAAABQHYZSEJDJ5H6NAWWJJCFI4YR37TRQ)
+qual14
+![qual14](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual14.png?token=GHSAT0AAAAAABQHYZSETWRJIT37YLMB7FQOYR37TSA)
+qual15
+![qual15](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual15.png?token=GHSAT0AAAAAABQHYZSFOAYOQL7ZL5UWI6CKYR37TSQ)
+qual16
+![qual16](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual16.png?token=GHSAT0AAAAAABQHYZSFS4YFRNG5DCWECFOAYR37TUQ)
 
 * Exit Survey
 
-qual17-28
+qual17
+![qual17](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual17.png?token=GHSAT0AAAAAABQHYZSERIFTA2BPO4ABXVZQYR37UJQ)
+qual18
+![qual18](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual18.png?token=GHSAT0AAAAAABQHYZSF5CLB6LZNHZ4YXZGYYR37UKA)
+qual19
+![qual19](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual19.png?token=GHSAT0AAAAAABQHYZSFL4E6K7FRCO5XP4PCYR37UKQ)
+qual20
+![qual20](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual20.png?token=GHSAT0AAAAAABQHYZSF3KBN6HZXVRARM64IYR37ULA)
+qual21
+![qual21](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual21.png?token=GHSAT0AAAAAABQHYZSEHDMF7Y6J4GBKO4QQYR37UMA)
+qual22
+![qual22](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual22.png?token=GHSAT0AAAAAABQHYZSFLWAMHROVP6YFYIMQYR37UMA)
+qual23
+![qual23](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual23.png?token=GHSAT0AAAAAABQHYZSEVQ4DKKZBUUDVEXY2YR37WYQ)
+qual24
+![qual24](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual24.png?token=GHSAT0AAAAAABQHYZSF5NJIAMA7NFALHJQAYR37WZA)
+qual25
+![qual25](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual25.png?token=GHSAT0AAAAAABQHYZSEZYAOVKZT6DVKWUOOYR37WZQ)
+qual26
+![qual26](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual26.png?token=GHSAT0AAAAAABQHYZSF52YAWWEUC23ZB5WWYR37W2A)
+qual27
+![qual27](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual27.png?token=GHSAT0AAAAAABQHYZSEB7EOJKQN5I62PZTSYR37W2Q)
+qual28
+![qual28](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual28.png?token=GHSAT0AAAAAABQHYZSFK7ZHFMPAOKXIAA2EYR37W3A)
 
 ___
 
 #### l. How to schedule meetings on Zoom <a name="How to schedule meetings on Zoom"></a>
 
 meeting1
+![meeting1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting1.png?token=GHSAT0AAAAAABQHYZSE24L6RMFSN4G7AUOOYR37YIA)
+
 meeting2
+![meeting2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting2.png?token=GHSAT0AAAAAABQHYZSEVVZOCJ4HNPKM7HWMYR37YJA)
+
+***
 
 ### 12.  QCL Impact Report  <a name="QCL Impact Report"></a>
 impact1
+![impact1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Impact1.png?token=GHSAT0AAAAAABQHYZSEVEU3G53QQ3BZQXQQYR37Y5A)
+
+___
 
 #### a. Qualtrics – Reports  <a name="Qualtrics – Reports"></a>
-ReportsQ1-9
+ReportsQ1
+![ReportsQ1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq1.png?token=GHSAT0AAAAAABQHYZSEK6DVIFJSRAILBOAMYR3756A)
+ReportsQ2
+![ReportsQ2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq2.png?token=GHSAT0AAAAAABQHYZSEQIMQXWS4SVNBR3YMYR3756Q)
+ReportsQ3
+![ReportsQ3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq3.png?token=GHSAT0AAAAAABQHYZSELOCYC2CBAQYLGPB6YR3756Q)
+ReportsQ4
+![ReportsQ4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq4.png?token=GHSAT0AAAAAABQHYZSFQYAO4RUT5TRQBCIQYR3757A)
+ReportsQ5
+![ReportsQ5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq5.png?token=GHSAT0AAAAAABQHYZSFPPTHMNFLC2VBJZKQYR3757Q)
+ReportsQ6
+![ReportsQ6](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq6.png?token=GHSAT0AAAAAABQHYZSEL24FPSHNW4FYIKIUYR376AA)
+ReportsQ7
+![ReportsQ7](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq7.png?token=GHSAT0AAAAAABQHYZSE5FN3NJFYCCFSU2OYYR376AQ)
+ReportsQ8
+![ReportsQ8](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq8.png?token=GHSAT0AAAAAABQHYZSFRGGVBCQ7LWENG4PQYR376BA)
+ReportsQ9
+![ReportsQ9](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq9.png?token=GHSAT0AAAAAABQHYZSFVO4P7ADUHB6QWGE2YR376BQ)
 
 #### b. Localist – Reports  <a name="Localist – Reports"></a>
-ReportsL1-8
+ReportsL1
+![ReportsL1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl1.png?token=GHSAT0AAAAAABQHYZSE2XYALVHHPH6Q6HQGYR377YQ)
+ReportsL2
+![ReportsL2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl2.png?token=GHSAT0AAAAAABQHYZSFEMHNJPHV6AQ3HNL6YR377ZA)
+ReportsL3
+![ReportsL3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl3.png?token=GHSAT0AAAAAABQHYZSEZB2SIULIDRLJWZEOYR377ZQ)
+ReportsL4
+![ReportsL4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl4.png?token=GHSAT0AAAAAABQHYZSEJBDSM76BTCH5VI6SYR3772A)
+ReportsL5
+![ReportsL5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl5.png?token=GHSAT0AAAAAABQHYZSFOOEHYMKUCPQIEU3YYR3772Q)
+ReportsL6
+![ReportsL6](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl6.png?token=GHSAT0AAAAAABQHYZSFKSVXZ76WZA6YZ7SSYR3773A)
+ReportsL7
+![ReportsL7](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl7.png?token=GHSAT0AAAAAABQHYZSFVLA4NY3QFSE6FMJ2YR3773Q)
+ReportsL8
+![ReportsL8](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl8.png?token=GHSAT0AAAAAABQHYZSE2A63PDIJIXTE5RFCYR3774A)
 
 #### c. Summaries  <a name="Summaries"></a>
 summaries1
+![summaries1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Summaries1.png?token=GHSAT0AAAAAABQHYZSEVMXGEE3IYWDWBB5YYR4ABNA)
 
 __Missing Data__  <a name="Missing Data"></a>
 missing1
+![missing1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Missing1.png?token=GHSAT0AAAAAABQHYZSFBMZXL6AES6XYE7XWYR4AB2A)
 
 __Localist__  <a name="Localist"></a>
 SumL1
+![SumL1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Suml1.png?token=GHSAT0AAAAAABQHYZSF6TS4FM5A7J5YTMPIYR4ACAQ)
 
 *	Need to get Event Name and Event ID from site and manually input it in
 sumL2
+![sumL2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Suml2.png?token=GHSAT0AAAAAABQHYZSEKFK6PPPC2U4QHFC2YR4ACBA)
 
 __Qualtrics__  <a name="Qualtrics"></a>
 sumQ1
+![sumQ1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq1.png?token=GHSAT0AAAAAABQHYZSFLA6P47ULTCRDZAWAYR4ADBA)
 
 _Exit_
 sumq2
+![sumq2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq2.png?token=GHSAT0AAAAAABQHYZSESMUCYRUOLBBYXX7GYR4ADBA)
 sumq3
+![sumq3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq3.png?token=GHSAT0AAAAAABQHYZSFZNAIPJJXQD2VD7KIYR4ADBQ)
 
 _Sign in_
 sumq4
+![sumq4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq4.png?token=GHSAT0AAAAAABQHYZSFRALSYK6NWABDNA5YYR4ADCA)
 sumq5
+![sumq5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq5.png?token=GHSAT0AAAAAABQHYZSFIZOKNIGJC6Q5BU3AYR4ADCQ)
 
 #### d. Rough Draft Impact Report  <a name="Rough Draft Impact Report"></a>
 
 Rough1
+![Rough1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough1.png?token=GHSAT0AAAAAABQHYZSEC4CUOYRAPV7JNCWAYR4AEGA)
 Rough2
+![Rough2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough2.png?token=GHSAT0AAAAAABQHYZSFU2C6HPKGMXSTYYWMYR4AEGQ)
 Rough3
+![Rough3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough3.png?token=GHSAT0AAAAAABQHYZSFUOYHDTPB6ONAYPQMYR4AEHA)
 Rough4
+![Rough4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough4.png?token=GHSAT0AAAAAABQHYZSERJMKFQUSMSY2B3VWYR4AEIA)
 Rough5
+![Rough5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough5.png?token=GHSAT0AAAAAABQHYZSFZ57SJRUBJXOVQUIIYR4AEIA)
