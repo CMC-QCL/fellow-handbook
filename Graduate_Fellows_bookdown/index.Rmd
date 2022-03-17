@@ -1,0 +1,19 @@
+--- 
+title: "Graduate Fellows Handbook"
+author: "Vanessa Arias Casillas"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Graduate Fellow Guide to working at the QCL"
+---
+
+# Graduate Fellow
+
+Have Fun!
+
+"Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"

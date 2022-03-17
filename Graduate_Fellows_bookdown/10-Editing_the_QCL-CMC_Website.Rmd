@@ -1,0 +1,11 @@
+# Editing the QCL-CMC Website
+
+Every week, we update cmc.edu/qcl/qcl-workshop page, whenever we open or close registration + update our schedule
+
+In terms of website access:
+
+  1. Log in at cmc.edu/login
+  2. Go to cmc.edu/qcl
+  3. See “View,” “Edit,” and “Revisions” tabs right above body
+
+![website access](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture4.png?token=GHSAT0AAAAAABQHYZSF4AJT2DLWNTMO2VOKYR2TZUQ)

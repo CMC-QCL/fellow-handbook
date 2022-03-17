@@ -1,0 +1,24 @@
+# New Employee Sign On 
+
+#### a. Before <a name="Before"></a> 
+- [X]	Resume and Cover Letter and References   
+- [X]	Interview  
+- [X]	Acceptance  
+
+#### b. After <a name="After"></a>
+- [X]	HR email 
+  - [ ]	Orientation 
+  - [ ]	Workday 
+      - [ ] IT will send you an email 
+      - [ ] https://www.myworkday.com/theclaremontcolleges/d/home.htmld 
+  - [ ] Signed documents 
+  - [ ] Show U.S. Citizenship/VISA 
+  - [ ] Get temporary permit for parking  
+      - [ ] Park in CMC permit parking or on the street (no permit needed)(map on page 4)  
+- [ ] Talk about Schedule  
+- [ ] Shadow a workshop  
+- [ ] Employee Materials (Next page)  
+- [ ] Download Software (Next page)  
+- [ ] Make Accounts (Next page)  
+
+![Claremont Campus Map](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Claremont_Map.jpg?token=GHSAT0AAAAAABSRTQJAEGK5UEDKUP2OUEZCYR2QPIQ "Claremont Campus Map")

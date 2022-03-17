@@ -1,0 +1,36 @@
+# Accounts and Software
+
+* CMC Self-Service Account Management    
+    - https://mypassword.claremontmckenna.edu/showLogin.cc    
+-	CMC Email  
+    - https://cmc.edu/mail/office365  
+      -	CMC e-mail address: firstname.lastname@claremontmckenna.edu  
+      -	Short-hand: firstthreelettersofyourfirstnameandwholelastname@cmc.edu   
+-	Dashboards Events  
+    -	https://events.cmc.edu/newemployeeusername/home  
+-	GitHub  
+    -	https://github.com/CMC-QCL  
+-	Workday  
+    -	https://www.myworkday.com/theclaremontcolleges/d/home.htmld (refer to page 3)  
+    -	Kronos (in here)  
+-	QCL Home page  
+    -	cmc.edu/login  
+    -	https://www.cmc.edu/qcl  
+-	Box   
+    -	https://claremontmckenna.account.box.com/login?redirect_url=%2Ffolder%2F0  
+-	Bit.ly  
+    -	No account (you will use it a lot)  
+    -	https://bitly.com/  
+-	Qualtrics  
+    -	https://qfreeaccountssjc1.az1.qualtrics.com/login?path=%2FQ%2FMyProjectsSection&product=project-store-proxy  
+-	Localist  
+    -	https://events.cmc.edu/admin  
+-	Zoom  
+    -	https://cmc-its.zoom.us  
+-	Teams  
+    -	Make sure to download desktop version and mobile as well  
+    -	https://teams.microsoft.com  
+- Instagram  
+    - https://www.instagram.com/cmc.qcl/  
+
+_Issues: contact another Graduate Fellow or IT (help@cmc.edu)_  
