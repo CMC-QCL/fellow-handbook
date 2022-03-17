@@ -31,7 +31,18 @@ date: "Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"
       - [Two days before day of workshop](#Two days before day of workshop)
       - [Day before day of workshop](#Day before day of workshop)
         - [Qualtrics](#Qualtrics) 
-        
+        - [Bit.ly](#Bit.ly)
+        - [Flyer Word doc](#Flyer Word doc)
+        - [Emails(to be written)](#Emails (to be written))
+        - [Reminder Email](#Reminder Email)
+        - [Attendees Emails](#Attendees Emails)
+      - [Day of workshop](#Day of workshop)
+        - [Moderator checklist](#Moderator checklist)
+      - [Day after workshop](#Day after workshop)
+        - [Qualtrics](#Qualtrics)
+        - [Zoom Recordings](#Zoom Recordings)
+        - [Ending email example](#Ending email example)
+
 ___
 
 ### 1. Welcome to the QCL <a name="Welcome to the QCL"></a>
@@ -554,57 +565,269 @@ Step 11:
 #### Two days before day of workshop <a name="Two days before day of workshop"></a>
 _Close Registration for workshop_  
 
-* For those that do not require extensive prior prep, let’s close them 5 pm a day before. And, 2 days    prior for those that require requesting licenses  
-    - Go into event   
-    - Go into tickets   
-    - Click inactivate on any tickets that are active  
- Pic 1
+Step 1:  
 
-* You should see the ticket status as inactivate   
-Pic 2
+* For those that do not require extensive prior prep, let’s close them 5 pm a day before. And,     2 days prior for those that require requesting licenses    
+    - Go into event     
+    - Go into tickets     
+    - Click inactivate on any tickets that are active    
+![For those that do not require extensive prior prep](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Twodays1.png?token=GHSAT0AAAAAABQHYZSEPWAA6NY4OZA7QJOEYR33BAQ)  
+
+Step 2:  
+
+* You should see the ticket status as inactivate     
+![You should see the ticket status as inactivate  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Twodays2.png?token=GHSAT0AAAAAABQHYZSEODR3PQ7UX5MCXLFGYR33BBQ)  
 
 #### Day before day of workshop <a name="Day before day of workshop"></a>
 
 __Qualtrics__ <a name="Qualtrics"></a>
 
-*	Make sure to make a Sign and Exit one
-    -	Make copy of old one 
-      -	Sign in for sign in (Fall_2021_Signin_Survey_SQL_Lvl1_Vanessa_Casillas_1119)
-      -	Exit for Exit (Fall_2021_Exit_Survey_SQL_Lvl1_Vanessa_Casillas_1119)
- Pic3
+Step 1: 
 
-* Change name to workshop name and instructor
- pic 4
+*	Make sure to make a Sign and Exit one  
+    -	Make copy of old one   
+      -	Sign in for sign in (Fall_2021_Signin_Survey_SQL_Lvl1_Vanessa_Casillas_1119)  
+      -	Exit for Exit (Fall_2021_Exit_Survey_SQL_Lvl1_Vanessa_Casillas_1119)  
+![Make sure to make a Sign and Exit one  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics1.png?token=GHSAT0AAAAAABQHYZSELGZJGORAYQMXUJROYR33CZQ)  
 
-* Change workshop sign-in for and Date/Time
-    - Sign-in
-Pic 5
+Step 2:  
 
-* Change workflow link
-    - In email to the weird code
-    - Make sure Dr. Park is getting an email sent to him
-pic 6
-pic 7
-pic 8
+* Change name to workshop name and instructor  
+![Change name to workshop name and instructor  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics2.png?token=GHSAT0AAAAAABQHYZSFP26MDRYBTPC32QIAYR33C2A)  
 
-* Exit 
-    - Make sure to put full name and title for instructor
-Pic 9
+Step 3:  
 
-* Change workflow link
-    - Make sure Dr. Park is getting an email sent to him
-pic 10
-pic 11
+* Change workshop sign-in for and Date/Time  
+    - Sign-in  
+![Change workshop sign-in for and Date/Time ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics3.png?token=GHSAT0AAAAAABQHYZSEEVEODXVGSWBVS25EYR33C2Q)  
 
-* Click Publish
-pic 12
+Step 4:  
 
-*	Copy link to use for Bit.ly later and hit publish
-      - If you forget to get here, you can still get it when you make QR code
-pic 13
+* Change workflow link  
+    - In email to the weird code  
+    - Make sure Dr. Park is getting an email sent to him  
+![Change workflow link ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics4.png?token=GHSAT0AAAAAABQHYZSFN7KAQ2UGEXOYYGBQYR33C3A) 
+![In email to the weird code ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics5.png?token=GHSAT0AAAAAABQHYZSFK2WX7PBTXIRZMD2CYR33C3Q)    
+![Make sure Dr. Park is getting an email sent to him ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics6.png?token=GHSAT0AAAAAABQHYZSEAVW7NSVB5GU2PV6KYR33C4Q)  
 
-*	Barcode for Word doc 
-    -	Anonymous link will give you the link of the survey again to put into Bit.ly
-    -	Download QR code for word doc use
-pic 14
+Step 5:  
 
+* Exit   
+![Exit](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics7.png?token=GHSAT0AAAAAABQHYZSFHP5BJIAYD6IUDVBSYR33C5A)  
+
+Step 6:  
+
+* Change workflow link  
+    - Make sure Dr. Park is getting an email sent to him  
+![Change workflow link](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics8.png?token=GHSAT0AAAAAABQHYZSFXR5CPIJLMQNPMGAUYR33C6A) 
+![Make sure Dr. Park is getting an email sent to him ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics9.png?token=GHSAT0AAAAAABQHYZSE6WJWGMJCVONOBB22YR33C7A)  
+
+Step 7: 
+
+* Click Publish  
+![Click Publish ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics10.png?token=GHSAT0AAAAAABQHYZSEHWMYXZAQ3LAUNF64YR33C7Q)  
+
+Step 8:  
+
+*	Copy link to use for Bit.ly later and hit publish  
+      - If you forget to get here, you can still get it when you make QR code  
+![Copy link to use for Bit.ly later and hit publish  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics11.png?token=GHSAT0AAAAAABQHYZSFZ57JIYS3UOV2DWBGYR33DAA)  
+
+Step 9:  
+
+*	Barcode for Word doc   
+    -	Anonymous link will give you the link of the survey again to put into Bit.ly  
+    -	Download QR code for word doc use  
+![Barcode for Word doc](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics12.png?token=GHSAT0AAAAAABQHYZSE2INECCJZQNJNNUBOYR33DBA)  
+
+__Bit.ly__ <a name="Bit.ly"></a>
+
+pic 1
+
+Step 1:
+
+*	Copy and paste the shorten link into word doc
+pic 2
+
+Step 2:
+
+*	Once you create a registration form on localist, would you please create bit.ly short cut and let me know? Do you know how to create a bit.ly URL shortcut?
+  -	created shortcuts with some naming convention she made for herself.
+    -	e.g., http://bit.ly/su2021-05-excel-L2-reg 
+    -	e.g., https://bit.ly/fa2021-excel-1020
+
+__Flyer Word doc__ <a name="Flyer Word doc"></a>
+
+*	Change to fit workshop
+  -	Title
+  -	Date & Time
+  -	Instructor
+  -	QR Code from Qualtrics
+  -	Shorten link from Bit.ly
+pic3
+
+__Emails (to be written)__ <a name="Emails (to be written)"></a>
+
+
+__Reminder Email__ <a name="Reminder Email"></a>
+
+*	send out a reminder email. 
+  -	Add
+    -	Virtual Work info: Zoom invitation link (just in case)
+    -	In-Person Info:
+    -	Anything instructor wants to relay 
+      -	Example 1
+pic4
+
+      -	Example 2
+pic5
+
+      - Example 3
+pic6
+
+      - Example 4
+      
+Dear MATLAB (Level 1 – Coding+Computing) Attendees:  
+ 
+Thank you for registering for the MATLAB (Level 1 – Coding+Computing) Workshop.
+
+Getting Equipped with MATLAB (Level 1 – Coding+Computing)
+
+Instructor: Bhaven Mistry (Assistant Director of the QCL)
+
+Summary
+Want to learn to program, but don’t know where to start or what to install? MATLAB is a numerical computing language and environment that is surprisingly easy to use. Typically used by engineers and scientists, you can think of it as a very powerful, customizable calculator. But, interestingly, it’s this very characteristic that makes MATLAB an ideal language for programming beginners, even if you’re not mathematically inclined.
+In this workshop, we will step you through the basics of programming using the MATLAB coding environment. We will start by getting familiar with the software, learning the basics of variable assignment and manipulation, writing our own functions, and exploring some applications. If you’re completely new to programming, learning the fundamentals with MATLAB first is a great way to springboard into other languages. Alternatively, if you have some experience with programming, but have always wanted to learn what MATLAB is used for, this could be a good way to get your feet wet.
+
+Pre-requisites:
+Internet Use: Introductory level (search, log-in, navigation of websites, etc.)
+Software: Attendees are asked to have MATLAB on their computers for the workshop. MATLAB is available for CMC students and faculty at https://www.cmc.edu/information-technology/academic-software
+
+Location
+Online (Attendees will receive the Zoom meeting information after registration)
+
+Participants
+
+Open to all CMC Students, Faculty and Staff
+
+I am attaching information for the workshop below: 
+QCL Workshop is inviting you to a scheduled Zoom meeting.
+
+Topic: [QCL Workshop] Get Equipped with MATLAB
+
+Time: Sep 29, 2021 03:00 PM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+
+https://cmc-its.zoom.us/j/83773547610?pwd=Y2loa3VoWnQvWFQxUDg1V0xIbHBNdz09
+
+Meeting ID: 837 7354 7610
+
+Passcode: workshop!
+
+Required Software/Account 
+
+https://www.cmc.edu/information-technology/academic-software
+
+Let me know if you have any questions. 
+ 
+Best regards, 
+Vanessa Casillas 
+QCL Graduate Fellow 
+
+__Attendees Emails__ <a name="Attendees Emails"></a>
+
+*	Go to Localist and click on event
+pic7
+
+*	Click on View Confirmed Tickets
+pic8
+
+*	Click Export CSV
+pic9
+
+*	Go to email and download the CSV
+pic10
+
+*	Open CSV and copy emails into your reminder email
+pic11
+
+#### Day of workshop <a name="Day of workshop"></a>
+
+__Moderator checklist__ <a name="Moderator checklist"></a>
+
+*	Morning of
+    -	Paste Zoom info in QCL Workshop – Workshop Control Booth chat in Teams 
+    -	Send out reminders if you haven’t already
+-	Show up 30 minutes before workshop
+    -	Print out flyers
+      -	Put on tables where the attendees will sit
+    -	Log into Zoom (workshops)
+      -	Start 30 minutes before
+      -	Check audio and video
+      -	Make Instructor co-host
+      -	Test runs with instructor
+    -	Get shorten links from bit.ly ready
+    -	Set-up camera
+    -	Put the spotlight on workshop video feed
+    -	Make sure the instructor is screensharing
+-	Time of the workshop
+    -	Welcome everyone: (change when necessary for only virtual or only in person workshops)
+      -	Welcome to the QCL! Today’s workshop is (name of event) instructed by (name of               instructor. My name is (your name) and I (as well as (other moderator)) will your              moderators for today’s workshop. If you have any questions or concerns throughout the          session, please write in chat for our virtual attendees or raise or have for our               in-person attendees. Before we start, please make sure to sign in with either the QR code       or the link provided. Lastly, this workshop will be recorded. Enjoy!
+    -	Link sign-in survey in chat and links for workshop from instructor 
+Welcome! Please sign-in: https://bit.ly/3zDNzPj 
+Link from instructor: https://github.com/CMC-QCL/Excel-L2-Workshop
+If you have any questions or concerns throughout the session, please write in chat @everyone.
+Thank you! Please sign-out: https://bit.ly/3EIOgdX 
+    -	Click Record
+      - Note: if on break, click pause not stop, we want the least number of files made
+    -	Check in attendees who attend on Localist
+      -	Cross check over Qualtrics to make sure that attendees take survey as well
+    -	Interrupt the instructor if an attendee online has a question or if the attendee               in-person has not been seen raising their hand.
+-	End of workshop
+    -	Link Exit survey in chat
+    -	Thank everyone for coming
+    -	Clean up and back up
+-	Send email reminder if there is a low rate for surveys 
+-	Send zoom meeting recordings to attendees that attended
+    -	Note: after every semester we dump recordings into a box file, before CMC does it
+
+#### Day after workshop <a name="Day after workshop"></a>
+
+__Qualtrics__ <a name="Qualtrics"></a>
+
+*	Give “Collaborate” to instructor on surveys
+
+__Zoom Recordings__ <a name="Zoom Recordings"></a>
+
+*	Only provided to the attendees that showed up for the workshop
+*	Records are ready to send the next day after the workshop
+pic12
+
+__Ending email example__ <a name="Ending email example"></a>
+
+Subject: Thank you for attending the (name of workshop) Workshop
+
+Hello (name of workshop) attendees,
+
+Thank you for attending the workshop. 
+
+I have provided the links for sign-in and sign-out:
+
+Sign-in:
+(Link of survey) 
+
+Sign-out:
+(Link of survey)
+
+Please make sure to complete the surveys, they count as your attendance. If you have already completed them, thank you.
+
+(all pasted from zoom)
+
+Note: records are only provided if you attend the workshop 
+
+Lastly, if there was any homework assigned for this workshop, please send all documents to: qcl@cmc.edu for grading.
+
+Thank you, 
+(your name)
+QCL Graduate Fellow
