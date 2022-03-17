@@ -1,10 +1,10 @@
 # Employee Materials
 
 - [ ]	Employee ID
-  - [ ]	Go to Connects in The Claremont Colleges Library Honnold Mudd (H on map, page 4)
+  - [ ]	Go to Connects in The Claremont Colleges Library Honnold Mudd (H on map)
     - [ ]	Take picture 
     - [ ]	Receive ID
-  - [ ]	Go to Story House (14 on map, page 4)
+  - [ ]	Go to Story House (14 on map)
     - [ ]	Get access to infrastructure (doors)
     - [ ]	Also need a KEY for office room 
 - [ ]	Email and Username

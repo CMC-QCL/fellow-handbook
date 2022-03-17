@@ -195,7 +195,7 @@ __Moderator__ <a name="Moderator"></a>
 * If you are instructing 
     - Ask for whoever moderator a week before or instruct and moderate yourself.
 
-__Zoom__ <a name="Zoom"></a>
+### Zoom 
 
 Step 1: 
 

@@ -14,11 +14,12 @@
   - [ ] Signed documents 
   - [ ] Show U.S. Citizenship/VISA 
   - [ ] Get temporary permit for parking  
-      - [ ] Park in CMC permit parking or on the street (no permit needed)(map on page 4)  
+      - [ ] Park in CMC permit parking or on the street (no permit needed)
 - [ ] Talk about Schedule  
 - [ ] Shadow a workshop  
-- [ ] Employee Materials (Next page)  
-- [ ] Download Software (Next page)  
-- [ ] Make Accounts (Next page)  
+- [ ] Employee Materials   
+- [ ] Download Software  
+- [ ] Make Accounts  
 
+## Campus Map
 ![Claremont Campus Map](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Claremont_Map.jpg?token=GHSAT0AAAAAABSRTQJAEGK5UEDKUP2OUEZCYR2QPIQ "Claremont Campus Map")

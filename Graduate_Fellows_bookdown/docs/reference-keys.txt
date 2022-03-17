@@ -5,6 +5,7 @@ materials-needed
 new-employee-sign-on
 before
 after
+campus-map
 employee-materials
 accounts-and-software
 logins-and-passwords
@@ -18,6 +19,7 @@ confirming-dates-with-instructors
 worksflow
 two-weeks-before-day-of-workshop
 one-week-before-day-of-workshop
+zoom
 two-days-before-day-of-workshop
 day-before-day-of-workshop
 day-of-workshop
