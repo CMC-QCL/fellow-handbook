@@ -1,8 +1,11 @@
+
+<!-- rnb-text-begin -->
+
 ---
 title: "Graduate Fellows Handbook"
 subtitle: "New employee guide"
 output: html_notebook
-date: "Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"
+date: "Last compiled on March 29, 2022, Time: 17:49"
 ---
 
 ### Table of contents
@@ -1276,3 +1279,6 @@ Rough4
 ![Rough4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough4.png?token=GHSAT0AAAAAABQHYZSERJMKFQUSMSY2B3VWYR4AEIA)
 Rough5
 ![Rough5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough5.png?token=GHSAT0AAAAAABQHYZSFZ57SJRUBJXOVQUIIYR4AEIA)
+
+<!-- rnb-text-end -->
+

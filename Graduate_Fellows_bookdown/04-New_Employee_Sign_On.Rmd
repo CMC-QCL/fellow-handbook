@@ -22,4 +22,6 @@
 - [ ] Make Accounts  
 
 ## Campus Map
-![Claremont Campus Map](https://github.com/CMC-QCL/fellow-handbook/blob/main/Images/Claremont_Map.jpg?raw=true "Claremont Campus Map")
+<img src="https://github.com/CMC-QCL/fellow-handbook/blob/1eb990df21fcf8d12aab0365994cc1746c233c63/Images/Claremont_Map.jpg" width="800">
+
+

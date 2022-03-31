@@ -3,7 +3,7 @@
     -	Titled: QCL Fellows Meeting Agenda  
     -	https://claremontmckenna.app.box.com/folder/0  
     
-![QCL Fellows Meeting Agenda](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture2.png?token=GHSAT0AAAAAABQHYZSEQDK54EPONUMMGKSUYR2TXCQ)
+<img src="https://github.com/CMC-QCL/fellow-handbook/blob/main/Images/Picture2.png" width="800">
 
 -	Agenda  
     -	Write meeting notes  
@@ -13,4 +13,4 @@
     -	TO DOs  
         -	Your assignments for the week  
 
-![Your assignments for the week](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture3.png?token=GHSAT0AAAAAABQHYZSEVEDCJCUX63ECFNBCYR2TYKQ)
+<img src="https://github.com/CMC-QCL/fellow-handbook/blob/main/Images/Picture3.png" width="800">
