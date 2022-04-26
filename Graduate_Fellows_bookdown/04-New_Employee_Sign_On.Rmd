@@ -22,6 +22,6 @@
 - [ ] Make Accounts  
 
 ## Campus Map
-<img src="https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Graduate_Fellows_bookdown/Images/Claremont_Map.jpg" width="800">
+<img src="https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Claremont_Map.jpg" width="800">
 
 
