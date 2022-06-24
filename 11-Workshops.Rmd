@@ -4,13 +4,10 @@
 
 *	Topics
     -	Pick
-    -	Dr. Park in Fellows meeting
 -	Dates
     -	Assign
-    -	Dr. Park in Fellows meeting
 -	Instructors 
     -	Assign
-    -	Dr. Park in Fellows meeting
 
 ## Possible Workshops
 
@@ -22,23 +19,23 @@
     -	Get Equipped with LaTeX  (level 1)               
     -	Get Equipped with MATLAB  (level 1)      
 -	Vanessa
-    -	Excel (level 1)    
-    -	SQL (level 1)   (Find cloud based complier that imports files like csv and sql)
-    -	GIS (level 1) (ArcGIS Online for Mac and Windows)
--	Sam Kim 
-    -	STATA  (level 1)
-    -	STATA (level 2) -- develop with Sam Lee
+    -	Excel     
+    -	GIS (ArcGIS Online for Mac and Windows)
+-	Jorge 
+    -	SQL
+    - Python
+    - R
 -	Others (need instructors)
-    -	Julia = Alfonso Landeros alanderos@ucla.edu
+    -	Julia = Alfonso Landeros 
     -	XSEDE
-    -	Bash = Brad McCauley bmccauley@hmc.edu
-    -	Unix Shell and Git = Jeanine Finn jeanine.finn@claremont.edu
-    -	MS Power Automate as Pre to Power BI = Cindy Cheng cindy.cheng@cgu.edu
-    -	MS Power Query as Pre to Power BI = Cindy Cheng cindy.cheng@cgu.edu
-    -	Alteryx = Brandon Bak brandonbak@gmail.com 
-    -	Machine Learning = Aashita Kesarwani akesarwani@hmc.edu 
-    -	Python 
+    -	Bash = Brad McCauley 
+    -	Unix Shell and Git = Jeanine Finn j
+    -	MS Power Automate as Pre to Power BI = Cindy Cheng 
+    -	MS Power Query as Pre to Power BI = Cindy Cheng 
+    -	Alteryx = Brandon Bak 
+    -	Machine Learning = Aashita Kesarwani 
     - Power BI = Jillian Seymour 
+    - STATA
     
 ## Confirming Dates with Instructors
 
@@ -775,21 +772,22 @@ __Files__ <a name="Files"></a>
 
 Who asked for QCL trainings: 
  
-brooke.bernal@claremontmckenna.edu (Rose Institute)  
-brittany.bras@claremontmckenna.edu (Rose Institute)  
-Kristin.Miller@ClaremontMcKenna.edu (Roberts Environment Center)  
-npatel21@students.claremontmckenna.edu (Student Manager Rose Institute)  
-jennifer.feitosa@claremontmckenna.edu (Psychology, asked for SPSS and Excel)  
+brooke.bernal (Rose Institute)  
+brittany.bras(Rose Institute)  
+Kristin.Miller (Roberts Environment Center)  
+npatel21 (Student Manager Rose Institute)  
+jennifer.feitosa (Psychology, asked for SPSS and Excel)  
+Kara (UMA)
  
  
 Who you can ask for QCL workshops:
  
-Jeanine Finn jeanine.finn@claremont.edu (Unix Shell and Git)  
-Brandon Bak brandonbak@gmail.com (Alteryx)  
-Cindy Cheng cindy.cheng@cgu.edu (Power BI)  
-Alfonso Landeros alanderos@ucla.edu (Julia)  
-Aashita Kesarwani akesarwani@hmc.edu (ML)  
-Brad McCauley bmccauley@hmc.edu (bash script)  
+Jeanine Finn (Unix Shell and Git)  
+Brandon Bak (Alteryx)  
+Cindy Cheng (Power BI)  
+Alfonso Landeros (Julia)  
+Aashita Kesarwani (ML)  
+Brad McCauley (bash script)  
  
 SQL dataset used for Fall 2020 attached. 
 
