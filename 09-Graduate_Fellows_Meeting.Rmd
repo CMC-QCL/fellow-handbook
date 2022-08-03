@@ -3,8 +3,8 @@
     -	Titled: QCL Fellows Meeting Agenda  
     - Titled: QCL Staff Meeting Agenda
     -	https://claremontmckenna.app.box.com/folder/0  
-    
-![](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.PNG)
+
+<img src="https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.JPG">
 
 -	Agenda  
     -	Write meeting notes  
