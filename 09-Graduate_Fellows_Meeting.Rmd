@@ -4,7 +4,7 @@
     - Titled: QCL Staff Meeting Agenda
     -	https://claremontmckenna.app.box.com/folder/0  
 
-<img src="https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.JPG">
+![](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.JPG){Height=500} 
 
 -	Agenda  
     -	Write meeting notes  
@@ -13,5 +13,5 @@
     -	TO DOs  
         -	Your assignments for the week  
 
-![](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture3.png){width=100}  
+![](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_2.JPG){Height=500}   
 
