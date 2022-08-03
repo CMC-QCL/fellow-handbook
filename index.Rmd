@@ -13,6 +13,6 @@ description: "Graduate Fellow Guide to working at the QCL"
 
 # Graduate Fellow
 
-Have Fun!
+Have Fun! 
 
 "Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"
