@@ -1,9 +1,10 @@
-# Graduate Fellows Meeting
+# Graduate Fellows Meeting and Bi-Weekly Meeting
 * BOX  
     -	Titled: QCL Fellows Meeting Agenda  
+    - Titled: QCL Staff Meeting Agenda
     -	https://claremontmckenna.app.box.com/folder/0  
     
-<img src="https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture2.png">
+![](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.PNG)
 
 -	Agenda  
     -	Write meeting notes  
@@ -12,4 +13,5 @@
     -	TO DOs  
         -	Your assignments for the week  
 
-<img src="https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture3.png">
+![](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture3.png){width=100}  
+

@@ -10,7 +10,7 @@ employee-materials
 accounts-and-software
 logins-and-passwords
 schedule
-graduate-fellows-meeting
+graduate-fellows-meeting-and-bi-weekly-meeting
 editing-the-qcl-cmc-website
 workshops
 start-of-semester
