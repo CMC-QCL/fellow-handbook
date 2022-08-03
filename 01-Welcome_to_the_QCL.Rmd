@@ -1,5 +1,13 @@
 # Welcome to the QCL
 
-Paragraph about QCL
+Mission Statement  
 
-Mission Statement
+"The Murty Sunak Quantitative and Computing Lab (QCL) serves as the transdisciplinary campus hub and comprehensive support center for students and faculty seeking assistance with a broad spectrum of quantitative issues, including mathematics, computation, statistics, programming, data analysis, and visualization."  
+
+The QCL supports the integration of computer and data science into the full range of liberal arts disciplines: the social sciences, sciences, and humanities, helping students apply quantitative literacy to any discipline, from economics to government, from biology to philosophy. Our staff provides one-on-one support and tutoring so students can learn how to incorporate quantitative and computing skills into research papers or other academic projects, as often requested by professors. We also help students understand the programming languages so it’s less intimidating and show them where to find the best sources of support information to elevate the quality and clarity of their analyses. Given modern workforce requirements—where data has infused itself in everything from political analysis and business dynamics to sports analytics—QCL aims to make data and quantitative skills accessible to students from all backgrounds, including those traditionally underrepresented in quantitative and technology fields.  
+
+<em>Last time, I asked: “What does mathematics mean to you?”  
+And some people answered: “The manipulation of numbers, the manipulation of structures.”  
+And if I had asked what music means to you, would you have answered:  
+“The manipulation of notes?”</em>  
+—Serge Lang  
