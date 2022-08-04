@@ -20,7 +20,8 @@
   - [ ] Shadow a workshop  
   - [ ] Employee Materials   
   - [ ] Download Software  
-  - [ ] Make Accounts  
+  - [ ] Make Accounts 
+  - [ ] Go Over Fellow Handbook
 
 ## Campus Map
 <img src="https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Claremont_Map.jpg" width="800">

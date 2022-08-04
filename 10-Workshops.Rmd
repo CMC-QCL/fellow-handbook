@@ -667,7 +667,30 @@ pic8
 pic9
 ![pic9](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying7.png?token=GHSAT0AAAAAABQHYZSFJYCEZRTXOBKKSXWWYR37A7A)
  
-## Changing Website
+## Editing the QCL-CMC Website
+
+Every week, we update cmc.edu/qcl/qcl-workshop page, whenever we open or close registration + update our schedule
+
+![Workshop webpage](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.JPG)   
+
+In terms of website access:
+
+  1. Log in at cmc.edu/login
+  2. Go to cmc.edu/qcl
+  3. See “View,” “Edit,” and “Revisions” tabs right above body  
+
+![Login](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_2.JPG)
+
+![Authentication](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_3.JPG)
+
+![you are now logged in](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_4.JPG)
+
+![At the top there is a button called content, click on it](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_5.JPG)
+
+![Search Workshop in filter](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_6.JPG)
+
+![edit then click save](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_7.JPG)
+
 
 pic10
 ![pic10](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website1.png?token=GHSAT0AAAAAABQHYZSF424DMO6WYEUA6L4SYR37DLQ)
