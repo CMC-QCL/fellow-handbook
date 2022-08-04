@@ -9,7 +9,7 @@
     - [ ]	Also need a KEY for office room 
 - [ ]	Email and Username
   - [ ]	Setup appointment for IT (Jeff)
-    - [ ]	Jeffrey.Ng@claremontmckenna.edu (jng@cmc.edu) or help@cmc.edu
+    - [ ]	help@cmc.edu
   - [ ]	Obtain computer access
   - [ ]	Get put into system
 - [ ]	Kronos

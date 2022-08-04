@@ -8,6 +8,8 @@
     -	Assign
 -	Instructors 
     -	Assign
+    
+___
 
 ## Possible Workshops
 
@@ -36,7 +38,9 @@
     -	Machine Learning = Aashita Kesarwani 
     - Power BI = Jillian Seymour 
     - STATA
-    
+
+___
+
 ## Confirming Dates with Instructors
 
 Subject: QCL Workshops - confirming dates
@@ -69,25 +73,8 @@ ___
     - Software
     - Websites
     - Licenses
-        
-___Instructors Notes turned into Summaries___
 
-Good afternoon [instructor’s name],  
-
-Happy Tuesday! I am looking forward to your dryrun of [workshop]! I am starting to create the registration page for the workshop and would like to get a bit of information from you about the workshop.   
-
-First, do you have a summary page for your workshop? I have an example of Sam Lee's below:   
-
-![example of Sam Lee's](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture5.png?token=GHSAT0AAAAAABQHYZSEHQGEXMFLADQ7N6KUYR2T32A)
-
-Second, do you have any pre-workshop requirements that the attendees need to do before the workshop? Like download programs or sign up for a license.    
-Third, what time did you want to do your workshop at 3pm-5pm or 4pm-6pm?  
-Fourth, would you like this workshop to be a hybrid, online only or in-person only?  
-Lastly, is there any information you would like me to let the attendees know about before walking into the workshop? like website where to download files or a note about the data.  
-Thank you for this information, it will help me in getting the workshop's registration ready.  
-
-Thank you,  
-Graduate Fellow - Murty Sunak Quantitative and Computing Lab (QCL)  
+___
 
 ___[QCL Workshop] Title___    
 
@@ -100,69 +87,100 @@ Prerequisite:
 Location:    
 Participants:   
 
+___
+
+___Email to Instructors for Notes to turn into Summaries___
+
+```
+
+Good afternoon [instructor’s name],  
+
+Happy Tuesday! I am looking forward to your dryrun of [workshop]! 
+I am starting to create the registration page for the workshop and 
+would like to get a bit of information from you about the workshop.   
+
+First, do you have a summary page for your workshop? 
+I have an example of Sam Lee's below:   
+     
+![example of Sam Lee's](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture5.png)
+
+Second, do you have any pre-workshop requirements that the attendees
+need to do before the workshop? Like download programs or sign up for a license.    
+Third, what time did you want to do your workshop at 3pm-5pm or 4pm-6pm?  
+Fourth, would you like this workshop to be a hybrid, online only or 
+in-person only?  
+Lastly, is there any information you would like me to let the attendees know 
+about before walking into the workshop? like website where to download files 
+or a note about the data.  
+Thank you for this information, it will help me in getting the workshop's 
+registration ready.  
+
+Thank you,  
+Graduate Fellow - Murty Sunak Quantitative and Computing Lab (QCL)  
+
+```
 ___Example Instructors Notes turned into Summaries___   
 
-_[QCL Workshop] R Programming Basics (Level 1 – Coding)_
 
-About this Event
+ _[QCL Workshop] R Programming Basics (Level 1 – Coding)_
 
-R Programming Basics (Level 1 - Coding)
- 
-Summary:  
+>About this Event
+>
+>R Programming Basics (Level 1 - Coding)
+> 
+>Summary:  
 R is an open-source statistical programming language. R is widely used in industry as well as in academia for statistical analysis and data visualization. In this workshop, we introduce the basics of the R language and its programming environment through simple hands-on examples.
 This workshop is designed for beginners in R programming, so no prior knowledge of R programming is needed. However, general programming knowledge in any programming language will be help understand the programming concepts.
 We will be using RStudio Cloud for hands-on. Please create a free account at https://rstudio.cloud before join the workshop.
-
-Agenda:  
+>
+>Agenda:  
 •	Basics of R and RStudio
 •	R Programming Environment: Workspace, Working Directory, Package
 •	R objects (data structure and function)
 •	R packages for data import and export
 •	R graphics for simple plotting methods
 •	Basic statistical analysis using R
-
-Location:  
+>
+>Location:  
 Hybrid (In-person: QCL Classroom, Online: Zoom information will be provided to the attendees after registration)
 Click here to find your way to the QCL.
-
-Participants:  
-CMC Students, Faculty, and Staff   
-___
+>
+>Participants:  
+>CMC Students, Faculty, and Staff   
 
 _Data Wrangling with R (Level 2 - Data)_
 
-Summary:  
+>Summary:  
 Data wrangling is the process of obtaining, cleaning, reshaping, and transforming raw (and messy) data into a useable form of processed (and tidy) data. It is known that a majority of data analysts and data scientists spend as much as 80% of their time on data wrangling. So it's essential to get familiar with good data wrangling tools that help you save time and avoid errors. In this hands-on workshop, you will learn basic skills to import, export, clean, reshape, transform, and visualize data using well-known data science package called tidyverse.
-
-Learning Objectives: (You will learn how to)  
+>
+>Learning Objectives: (You will learn how to)  
 Import and export data
 Clean, reshape and transform data
 Make messy data into tidy data
 Visualize tidy data using ggplot2 (if time permits)
-
-Prerequisites:  
+>
+>Prerequisites:  
 Basic knowledge of R and RStudio (e.g., R Programming for Beginners - Level 1)
 RStudio Cloud account; if you don't have one yet, please create a new account from https://rstudio.cloud site.
 Tidyverse package; please make sure that you have installed the tidyverse package in your R environment. See https://www.tidyverse.org for more information.
-
-Location:  
+>
+>Location:  
 Hybrid (In-person: QCL Classroom, Online: Zoom information will be provided to the attendees after registration)
 Click here to find your way to the QCL.
-
-Participants:  
+>
+>Participants:  
 CMC Students, Faculty, and Staff   
-___
 
 _GIS - Part 2 (Level 1 - Data) Workshop_
 
-About this Event
-
-Summary:  
+>About this Event
+>
+>Summary:  
 This workshop will introduce you to the ever-expanding and fascinating world of geographic information systems (GIS). In three 2-hour sessions you will learn about what GIS is, how it is used in a multitude of industries and fields, and how to get started using GIS software. We will examine GIS concepts and software tools used to visualize real-world features, discover patterns, and communicate information. Primarily using ArcGIS Online (if you can hyperlink: https://doc.arcgis.com/en/arcgis-online/get-started/what-is-agol.htm) you will work with GIS maps, explore data, and analyze maps and data as you learn fundamental concepts that underlie GIS technology.
 Through a series of presentations, in-class tutorials, and homework assignments this workshop will give you a strong beginning foundation on how to make maps and explore spatial data to identify patterns and insights in your data you never knew possible. You will come away from this workshop with the understanding you need to start working with GIS and utilize it in your own work and explorations. You do not need any previous experience – just your own curiosity! 
 Students in this workshop (in fact, all Claremont Colleges students) have free access to a wide variety Esri GIS products. For more information, check out the Claremont Colleges Library Geographic Information System (GIS) Services home page, https://library.claremont.edu/gis/ 
-
-Learning Objectives: (You will learn how to)  
+>
+>Learning Objectives: (You will learn how to)  
 Topics will include: 
 •	Introduction to the GIS Platform 
 •	Theoretical basis of GIS and the Geographic Approach 
@@ -175,14 +193,15 @@ Topics will include:
 •	The US Census and GIS 
 •	Introductory Spatial Analysis 
 •	Sharing results – physical maps and the world online maps 
-
-Location:  
+>
+>Location:  
 The following event will be conducted in a hybrid format:
 •	Virtual: Zoom
 •	In-Person: QCL Classroom
-
+>
 Participants:  
 7C Students, Faculty and Staff  
+
 ___
 
 ### One week before day of workshop
