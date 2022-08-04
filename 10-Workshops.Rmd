@@ -101,9 +101,9 @@ would like to get a bit of information from you about the workshop.
 
 First, do you have a summary page for your workshop? 
 I have an example of Sam Lee's below:   
-     
+```     
 ![example of Sam Lee's](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture5.png)
-
+```
 Second, do you have any pre-workshop requirements that the attendees
 need to do before the workshop? Like download programs or sign up for a license.    
 Third, what time did you want to do your workshop at 3pm-5pm or 4pm-6pm?  
