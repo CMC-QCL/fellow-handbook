@@ -12,6 +12,7 @@
       - [ ] IT will send you an email 
       - [ ] https://www.myworkday.com/theclaremontcolleges/d/home.htmld 
   - [ ] Signed documents 
+      -[ ] Contract
   - [ ] Show U.S. Citizenship/VISA 
   - [ ] Get temporary permit for parking  
       - [ ] Park in CMC permit parking or on the street (no permit needed)

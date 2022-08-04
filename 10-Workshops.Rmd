@@ -102,7 +102,7 @@ would like to get a bit of information from you about the workshop.
 First, do you have a summary page for your workshop? 
 I have an example of Sam Lee's below:   
 ```     
-![example of Sam Lee's](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture5.png)
+![example of Sam Lee's](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1_1_1.JPG)
 ```
 Second, do you have any pre-workshop requirements that the attendees
 need to do before the workshop? Like download programs or sign up for a license.    
@@ -216,38 +216,30 @@ __Moderator__ <a name="Moderator"></a>
 Step 1: 
 
 * Go to meetings      
-![Go to meetings](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture6.png?token=GHSAT0AAAAAABQHYZSE6MSJ2F3BFWBHTLK6YR2U27Q)  
+![Go to meetings](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1_1.JPG)   
 
 Step 2: 
 
 * Click on Schedule      
-![Click on Schedule](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture7.png?token=GHSAT0AAAAAABQHYZSEXEJ7Y5WPF3OJWSSYYR2U6CQ)
+![Click on Schedule](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_2_2.JPG) 
 
 Step 3: 
 
-* Go to QCL workshop  
-![Go to QCL workshop](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture8.png?token=GHSAT0AAAAAABQHYZSFXW3ZERAF3VRPK2TSYR2U6DQ)
+* Fill in meeting information on Zoom then click save,   
+    - Description (Optional) comes from Instructor’s meeting    
+![Fill in meeting information on Zoom then click save, Description (Optional) comes from Instructor’s meeting](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_3_3.JPG) 
 
 Step 4: 
 
-* Look for workshop you are working      
-![Look for workshop you are working](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture9.png?token=GHSAT0AAAAAABQHYZSEUEWGYDWYUKRSQ42OYR2U6EA)
+* You will see this   
+![You will see this](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_4_4.JPG) 
 
 Step 5: 
 
-* Fill in meeting information on Zoom then click save,   
-    - Description (Optional) comes from Instructor’s meeting    
-![Fill in meeting information on Zoom then click save, Description (Optional) comes from Instructor’s meeting](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture10.png?token=GHSAT0AAAAAABQHYZSFVUDX4IYQ6FDYW256YR2U6FQ)
-
-Step 6: 
-
-* You will see this   
-![You will see this](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture11.png?token=GHSAT0AAAAAABQHYZSFAEJN323XN3CR6QHYYR2U6GA)
-
-Step 7: 
-
 * On meeting tab, it should there    
-![On meeting tab, it should there](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Picture12.png?token=GHSAT0AAAAAABQHYZSEFGAFFKTHWSTTNBROYR2U6GQ)
+![On meeting tab, it should there](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_5_5.JPG) 
+
+___
 
 __Localist__ <a name="Localist"></a>   
 
