@@ -359,6 +359,26 @@ Step 11:
 -  Send Dr. Park an email + post a message on Teams so that I can announce them.  
 ![Publish or NOT](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_16_16.JPG)
 
+---
+
+__Bit.ly__ <a name="Bit.ly"></a>
+
+![Bit.ly](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_38.JPG) 
+
+Step 1:
+
+*	Copy and paste the shorten link into word doc
+![Copy and paste the shorten link into word doc](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_39.JPG)  
+
+Step 2:
+
+*	Once you create a registration form on localist, would you please create bit.ly short cut and let me know? Do you know how to create a bit.ly URL shortcut?
+    -	created shortcuts with some naming convention she made for herself.
+        -	e.g., http://bit.ly/su2021-05-excel-L2-reg 
+        -	e.g., https://bit.ly/fa2021-excel-1020
+![Click Create](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_40.JPG) 
+
+---
 
 ### Two days before day of workshop
 _Check Registration for workshop_  
@@ -437,22 +457,6 @@ Step 9:
 ![Barcode for Word doc](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_37.JPG) 
 
 ---
-
-__Bit.ly__ <a name="Bit.ly"></a>
-
-![Bit.ly](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Bitly1.png?token=GHSAT0AAAAAABQHYZSEVUTINJ3WNDHGET6CYR34SJA)  
-
-Step 1:
-
-*	Copy and paste the shorten link into word doc
-![Copy and paste the shorten link into word doc](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Bitly2.png?token=GHSAT0AAAAAABQHYZSF6ATRFOGCG4O6Q5GYYR34SJQ)  
-
-Step 2:
-
-*	Once you create a registration form on localist, would you please create bit.ly short cut and let me know? Do you know how to create a bit.ly URL shortcut?
-    -	created shortcuts with some naming convention she made for herself.
-        -	e.g., http://bit.ly/su2021-05-excel-L2-reg 
-        -	e.g., https://bit.ly/fa2021-excel-1020
 
 __Flyer Word doc__ <a name="Flyer Word doc"></a>
 
