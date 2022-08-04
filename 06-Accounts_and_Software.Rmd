@@ -32,5 +32,11 @@
     -	https://teams.microsoft.com  
 - Instagram  
     - https://www.instagram.com/cmc.qcl/  
+- Facebook  
+    - https://www.facebook.com/theQCL  
+- XSEDE  
+    - https://portal.xsede.org/my-xsede#/guest  
+- Data Science Capstone  
+    - https://sites.cmc.edu/dscapstone/  
 
 _Issues: contact another Graduate Fellow or IT (help@cmc.edu)_  
