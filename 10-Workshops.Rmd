@@ -375,27 +375,33 @@ Step 1:
     -	Make copy of old one   
       -	Sign in for sign in (Fall_2021_Signin_Survey_SQL_Lvl1_Vanessa_Casillas_1119)  
       -	Exit for Exit (Fall_2021_Exit_Survey_SQL_Lvl1_Vanessa_Casillas_1119)  
-![Make sure to make a Sign and Exit one  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics1.png?token=GHSAT0AAAAAABQHYZSELGZJGORAYQMXUJROYR33CZQ)  
+![Make sure to make a Sign and Exit one  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_17.JPG)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_18.JPG)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_19.JPG)
 
 Step 2:  
 
 * Change name to workshop name and instructor  
-![Change name to workshop name and instructor  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics2.png?token=GHSAT0AAAAAABQHYZSFP26MDRYBTPC32QIAYR33C2A)  
+![Change name to workshop name and instructor  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_20.JPG)  
 
 Step 3:  
 
 * Change workshop sign-in for and Date/Time  
     - Sign-in  
-![Change workshop sign-in for and Date/Time ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics3.png?token=GHSAT0AAAAAABQHYZSEEVEODXVGSWBVS25EYR33C2Q)  
+![Change workshop sign-in for and Date/Time ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_21.JPG)  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_22.JPG)
 
 Step 4:  
 
 * Change workflow link  
     - In email to the weird code  
     - Make sure Dr. Park is getting an email sent to him  
-![Change workflow link ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics4.png?token=GHSAT0AAAAAABQHYZSFN7KAQ2UGEXOYYGBQYR33C3A) 
-![In email to the weird code ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics5.png?token=GHSAT0AAAAAABQHYZSFK2WX7PBTXIRZMD2CYR33C3Q)    
-![Make sure Dr. Park is getting an email sent to him ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics6.png?token=GHSAT0AAAAAABQHYZSEAVW7NSVB5GU2PV6KYR33C4Q)  
+![Change workflow link ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_23.JPG)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_24.JPG)
+![In email to the weird code ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_25.JPG)    
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_26.JPG)
+![Make sure Dr. Park is getting an email sent to him ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_27.JPG)  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_27.JPG)
 
 Step 5:  
 
