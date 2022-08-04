@@ -11,7 +11,6 @@ accounts-and-software
 logins-and-passwords
 schedule
 graduate-fellows-meeting-and-bi-weekly-meeting
-editing-the-qcl-cmc-website
 workshops
 start-of-semester
 possible-workshops
@@ -26,7 +25,7 @@ day-of-workshop
 day-after-workshop
 workshop-issues
 buying-a-ticket-making-sure-it-works
-changing-website
+editing-the-qcl-cmc-website
 checklist-for-a-typical-workday
 building-a-workshop
 workshops-building
