@@ -375,9 +375,9 @@ Step 1:
     -	Make copy of old one   
       -	Sign in for sign in (Fall_2021_Signin_Survey_SQL_Lvl1_Vanessa_Casillas_1119)  
       -	Exit for Exit (Fall_2021_Exit_Survey_SQL_Lvl1_Vanessa_Casillas_1119)  
-![Make sure to make a Sign and Exit one  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_17.JPG)
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_18.JPG)
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_19.JPG)
+![Make sure to make a Sign and Exit one  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_17.JPG)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_18.JPG)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_19.JPG)
 
 Step 2:  
 
@@ -389,7 +389,7 @@ Step 3:
 * Change workshop sign-in for and Date/Time  
     - Sign-in  
 ![Change workshop sign-in for and Date/Time ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_21.JPG)  
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_22.JPG)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_22.JPG)
 
 Step 4:  
 
@@ -397,28 +397,31 @@ Step 4:
     - In email to the weird code  
     - Make sure Dr. Park is getting an email sent to him  
 ![Change workflow link ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_23.JPG)
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_24.JPG)
-![In email to the weird code ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_25.JPG)    
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_26.JPG)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_24.JPG)
+![In email to the weird code](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_25.JPG)    
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_26.JPG)
 ![Make sure Dr. Park is getting an email sent to him ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_27.JPG)  
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/QSection10_27.JPG)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_28.JPG)
 
 Step 5:  
 
 * Exit   
-![Exit](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics7.png?token=GHSAT0AAAAAABQHYZSFHP5BJIAYD6IUDVBSYR33C5A)  
+![Exit](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_29.JPG)  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_30.JPG)
 
 Step 6:  
 
 * Change workflow link  
     - Make sure Dr. Park is getting an email sent to him  
-![Change workflow link](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics8.png?token=GHSAT0AAAAAABQHYZSFXR5CPIJLMQNPMGAUYR33C6A) 
-![Make sure Dr. Park is getting an email sent to him ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics9.png?token=GHSAT0AAAAAABQHYZSE6WJWGMJCVONOBB22YR33C7A)  
+![Change workflow link](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_31.JPG)  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_32.JPG)
+![Make sure Dr. Park is getting an email sent to him ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_33.JPG)  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_34.JPG)
 
 Step 7: 
 
 * Click Publish  
-![Click Publish ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics10.png?token=GHSAT0AAAAAABQHYZSEHWMYXZAQ3LAUNF64YR33C7Q)  
+![Click Publish ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_27.JPG)  
 
 Step 8:  
 
