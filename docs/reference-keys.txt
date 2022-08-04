@@ -15,6 +15,7 @@ workshops
 start-of-semester
 possible-workshops
 confirming-dates-with-instructors
+editing-the-qcl-cmc-website
 workflow
 two-weeks-before-day-of-workshop
 one-week-before-day-of-workshop
@@ -24,7 +25,6 @@ day-of-workshop
 day-after-workshop
 workshop-issues
 buying-a-ticket-making-sure-it-works
-editing-the-qcl-cmc-website
 checklist-for-a-typical-workday
 building-a-workshop
 workshops-building

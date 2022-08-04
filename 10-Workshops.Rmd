@@ -63,6 +63,32 @@ vanessa.casillas@claremontmckenna.edu
 
 ___
 
+## Editing the QCL-CMC Website
+
+Every week, we update cmc.edu/qcl/qcl-workshop page, whenever we open or close registration + update our schedule
+
+![Workshop webpage](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.JPG)   
+
+In terms of website access:
+
+  1. Log in at cmc.edu/login
+  2. Go to cmc.edu/qcl
+  3. See “View,” “Edit,” and “Revisions” tabs right above body  
+
+![Login](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_2.JPG)
+
+![Authentication](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_3.JPG)
+
+![you are now logged in](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_4.JPG)
+
+![At the top there is a button called content, click on it](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_5.JPG)
+
+![Search Workshop in filter](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_6.JPG)
+
+![edit then click save](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_7.JPG)
+
+___
+
 ## Workflow
 
 ### Two weeks before day of workshop
@@ -303,12 +329,19 @@ Step 9:
 * Check to make sure that Attendees Questions are correct  
 
 1.	"Please enter your student ID # (Must be 8 characters). For all faculty/staff/non-Claremont Colleges person, please insert 00000000." (Required)  
-2.	"Please indicate gender (male or female)"  
+2.	"What gender do you identify with? (optional)" 
 3.	"Which one of the Claremont Colleges are you from?" (Required)  
 4.	"If not from the Claremont Colleges, where are you from?"  
 5.	"Are you a Freshman, Sophomore, Junior, Senior, Graduate Student, Faculty, Staff or Other?" (Required)  
 6.	"If Other, please specify:"    
+7. I agree to the Ticket Cancelation Policy: If you need to cancel your reservation, please contact us by email at qcl@cmc.edu at least 24 hours prior to the event. A prompt cancellation will help us contact the next person on the waitlist.
+8. I agree to the No Show Policy: In case of 2 or more no-shows (without cancelation), you will lose your privilege to take our free workshops during the semester.
+
 ![Check to make sure that Attendees Questions are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_14_14.JPG)
+
+![Check to make sure that Attendees Questions are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_14_14_14.JPG)
+
+![Check to make sure that Attendees Questions are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_14_14_15.JPG)
 
 Step 10:	
 
@@ -328,21 +361,9 @@ Step 11:
 
 
 ### Two days before day of workshop
-_Close Registration for workshop_  
+_Check Registration for workshop_  
 
-Step 1:  
-
-* For those that do not require extensive prior prep, let’s close them 5 pm a day before.       
-2 days prior for those that require requesting licenses    
-    - Go into event     
-    - Go into tickets     
-    - Click inactivate on any tickets that are active    
-![For those that do not require extensive prior prep](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Twodays1.png?token=GHSAT0AAAAAABQHYZSEPWAA6NY4OZA7QJOEYR33BAQ)  
-
-Step 2:  
-
-* You should see the ticket status as inactivate     
-![You should see the ticket status as inactivate  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Twodays2.png?token=GHSAT0AAAAAABQHYZSEODR3PQ7UX5MCXLFGYR33BBQ)  
+Check to make sure you don't have to activate the wait list and that no one canceled to add anyone new. 
 
 ### Day before day of workshop
 
@@ -681,40 +702,6 @@ pic8
 pic9
 ![pic9](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying7.png?token=GHSAT0AAAAAABQHYZSFJYCEZRTXOBKKSXWWYR37A7A)
  
-## Editing the QCL-CMC Website
-
-Every week, we update cmc.edu/qcl/qcl-workshop page, whenever we open or close registration + update our schedule
-
-![Workshop webpage](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.JPG)   
-
-In terms of website access:
-
-  1. Log in at cmc.edu/login
-  2. Go to cmc.edu/qcl
-  3. See “View,” “Edit,” and “Revisions” tabs right above body  
-
-![Login](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_2.JPG)
-
-![Authentication](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_3.JPG)
-
-![you are now logged in](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_4.JPG)
-
-![At the top there is a button called content, click on it](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_5.JPG)
-
-![Search Workshop in filter](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_6.JPG)
-
-![edit then click save](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_7.JPG)
-
-
-pic10
-![pic10](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website1.png?token=GHSAT0AAAAAABQHYZSF424DMO6WYEUA6L4SYR37DLQ)
-pic11
-![pic11](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website2.png?token=GHSAT0AAAAAABQHYZSFDBFXWK6DHPJLR2B4YR37DMQ)
-pic12
-![pic12](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website3.png?token=GHSAT0AAAAAABQHYZSFHHNPWTPCECXAZXPCYR37DNQ)
-pic13
-![pic13](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/website4.png?token=GHSAT0AAAAAABQHYZSEPS3BFP6GID2MUBQSYR37DOA)
-
 ## Checklist for a Typical Workday
 
 This is if there is no workshop or appointment going on
