@@ -15,7 +15,7 @@ workshops
 start-of-semester
 possible-workshops
 confirming-dates-with-instructors
-worksflow
+workflow
 two-weeks-before-day-of-workshop
 one-week-before-day-of-workshop
 two-days-before-day-of-workshop

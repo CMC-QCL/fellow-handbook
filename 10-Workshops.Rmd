@@ -63,7 +63,7 @@ vanessa.casillas@claremontmckenna.edu
 
 ___
 
-## Worksflow
+## Workflow
 
 ### Two weeks before day of workshop
 *	Contact Instructor  
@@ -102,7 +102,8 @@ would like to get a bit of information from you about the workshop.
 First, do you have a summary page for your workshop? 
 I have an example of Sam Lee's below:   
 ```     
-![example of Sam Lee's](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1_1_1.JPG)
+![example of Sam Lee's](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1_1_1.JPG){Height=400} 
+
 ```
 Second, do you have any pre-workshop requirements that the attendees
 need to do before the workshop? Like download programs or sign up for a license.    
@@ -246,54 +247,55 @@ __Localist__ <a name="Localist"></a>
 Step 1:	
 
 * Start by copying an old event  
-    - Make sure you are working on copy  
+    - Make sure you are working on copy 
+    - You may have to deactivate the old tickets that are active in the event from copying
 - Fill in all information (Like below)  
     - Click “Include Above in Schedule”  
     - Delete the old Confirmed dates  
     - Description is made from Instructor’s meeting  
-![Start by copying an old event](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist1.png?token=GHSAT0AAAAAABQHYZSEYOLQEPQKD6PN5JPUYR2WIPA)  
+![Start by copying an old event](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_6_6.JPG)  
 
 Step 2:
 
 * Fill out Location (Like below)  
     - Check if event is only in-person, only virtual or hybrid  
-![Fill out Location (Like below)](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist2.png?token=GHSAT0AAAAAABQHYZSFXDDAUR7NYQXKVMJYYR2WIPQ)
+![Fill out Location (Like below)](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_7_7.JPG)
 
 Step 3:	
 
 * Change the Owner to yourself 	  
     - Check Vanity URL (qcl_workshop_stata_fa21_1117)  
-![Change the Owner to yourself](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist3.png?token=GHSAT0AAAAAABQHYZSFDUBBM4CG6GSGGT2IYR2WIQA)
+![Change the Owner to yourself](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_8_8.JPG)
 
 Step 4:	
 
 * Add a Ticket Types  
     - Virtual or In-Person (or both)  
     - Make sure Virtual is always on Top  
-![Add a Ticket Types](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist4.png?token=GHSAT0AAAAAABQHYZSF7V6AEFIP5R4PXNAIYR2WIQQ)
+![Add a Ticket Types](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_9_9.JPG)
 
 Step 5:	
 
 * Add a Virtual ticket name is ZOOM and drag to the right ticket type (pic wrong)  
     - Then go into additional ticket options  
-![Add a Virtual ticket name is ZOOM and drag to the right ticket type (pic wrong)](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist5.png?token=GHSAT0AAAAAABQHYZSFVFO6FQGSCETFUZFEYR2WIRA)
+![Add a Virtual ticket name is ZOOM and drag to the right ticket type (pic wrong)](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_10_10.JPG)
 
 Step 6:	
 
 * Check to make sure settings are correct  
     - Make sure Ticket availability dates correctly dated or left blank if you will manual turn off  
-![Check to make sure settings are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist6.png?token=GHSAT0AAAAAABQHYZSFOXZ54CXQFIHXBAZWYR2WIRQ)
+![Check to make sure settings are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_11_11.JPG)
 
 Step 7:	
 
-*  Add in-person ticket named QCL CLASSROOM and drag to the right ticket type (pic wrong)  
+*  Add in-person ticket and drag to the right ticket type  
     - Then go into additional ticket options  
-![Add in-person ticket named QCL CLASSROOM and drag to the right ticket type (pic wrong)](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist7.png?token=GHSAT0AAAAAABQHYZSFLKHYDSMSDNSMEUWSYR2WISA)
+![Add in-person ticket and drag to the right ticket type ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_12_12.JPG)
 
 Step 8:	
 
 * Check to make sure setting are correct  
-![Check to make sure setting are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist8.png?token=GHSAT0AAAAAABQHYZSFRUQ6K25NP6NWHAISYR2WISQ)
+![Check to make sure setting are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_13_13.JPG)
 
 
 Step 9:	
@@ -306,12 +308,12 @@ Step 9:
 4.	"If not from the Claremont Colleges, where are you from?"  
 5.	"Are you a Freshman, Sophomore, Junior, Senior, Graduate Student, Faculty, Staff or Other?" (Required)  
 6.	"If Other, please specify:"    
-![Check to make sure that Attendees Questions are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist9.png?token=GHSAT0AAAAAABQHYZSFAEB6X2GZ25OEQENGYR2WITA)
+![Check to make sure that Attendees Questions are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_14_14.JPG)
 
 Step 10:	
 
 *  Check to make sure you have the correct Event Capacity  
-![Check to make sure you have the correct Event Capacity](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Lcoalist10.png?token=GHSAT0AAAAAABQHYZSFY5J3HMKLB776ILS2YR2WIVA)
+![Check to make sure you have the correct Event Capacity](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_15_15.JPG)
 
 Step 11:	
 
@@ -320,9 +322,9 @@ Step 11:
     - But if you want another Fellow to review then make sure publish is not checked  
     - Then Click Save  
 - TEST! TEST! TEST!   
-    - when you set up the registration pages, please test them by registering for the workshops and see       if everything works fine including the email confirmation, Zoom links, etc.   
+    - when you set up the registration pages, please test them by registering for the workshops and see if everything works fine including the email confirmation, Zoom links, etc.   
 -  Send Dr. Park an email + post a message on Teams so that I can announce them.  
-![Publish or NOT](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist11.png?token=GHSAT0AAAAAABQHYZSFOUTVRATRJCHFRTE6YR2WIWA)
+![Publish or NOT](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_16_16.JPG)
 
 
 ### Two days before day of workshop
@@ -330,7 +332,8 @@ _Close Registration for workshop_
 
 Step 1:  
 
-* For those that do not require extensive prior prep, let’s close them 5 pm a day before. And,     2 days prior for those that require requesting licenses    
+* For those that do not require extensive prior prep, let’s close them 5 pm a day before.       
+2 days prior for those that require requesting licenses    
     - Go into event     
     - Go into tickets     
     - Click inactivate on any tickets that are active    
