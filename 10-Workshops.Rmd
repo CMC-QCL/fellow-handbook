@@ -421,20 +421,22 @@ Step 6:
 Step 7: 
 
 * Click Publish  
-![Click Publish ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_27.JPG)  
+![Click Publish ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_35.JPG)  
 
 Step 8:  
 
 *	Copy link to use for Bit.ly later and hit publish  
       - If you forget to get here, you can still get it when you make QR code  
-![Copy link to use for Bit.ly later and hit publish  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics11.png?token=GHSAT0AAAAAABQHYZSFZ57JIYS3UOV2DWBGYR33DAA)  
+![Copy link to use for Bit.ly later and hit publish  ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_36.JPG)  
 
 Step 9:  
 
 *	Barcode for Word doc   
     -	Anonymous link will give you the link of the survey again to put into Bit.ly  
     -	Download QR code for word doc use  
-![Barcode for Word doc](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qualtrics12.png?token=GHSAT0AAAAAABQHYZSE2INECCJZQNJNNUBOYR33DBA)  
+![Barcode for Word doc](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_37.JPG) 
+
+---
 
 __Bit.ly__ <a name="Bit.ly"></a>
 
