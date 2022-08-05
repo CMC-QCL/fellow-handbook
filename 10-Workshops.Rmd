@@ -763,25 +763,26 @@ __Pre-workshop requirements PDF__ <a name="Pre-workshop requirements PDF"></a>
 
 ___
 
-__Presentation PDF__ <a name="Presentation PDF"></a>
-*	Make in program you would like to use (i.e., Powerpoint, ArcGis Stories)
--	Make it into a PDF to send after workshop
--	Beginners’ material for Level 1
--	Required Slides (make sure to do the material in chucks)
-    -	Title page
-    -	Before we start
-    -	Download Information 
-    -	Agenda
-    -	Overview
-    -	Vocabulary
-    -	Today’s Data
-    -	Demo Agenda
-    -	Demo Slides
-    -	Activity
-    -	Questions
-    -	Answers
-    -	Resources
-    -	Contact info
+__Presentation PDF__ <a name="Presentation PDF"></a>   
+
+*	Make in program you would like to use (i.e., Powerpoint, ArcGis Stories)  
+-	Make it into a PDF to send after workshop  
+-	Beginners’ material for Level 1  
+-	Required Slides (make sure to do the material in chucks)  
+    -	Title page  
+    -	Before we start  
+    -	Download Information   
+    -	Agenda  
+    -	Overview  
+    -	Vocabulary  
+    -	Today’s Data  
+    -	Demo Agenda  
+    -	Demo Slides  
+    -	Activity  
+    -	Questions  
+    -	Answers  
+    -	Resources  
+    -	Contact info  
     
 ___
 

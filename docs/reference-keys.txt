@@ -29,7 +29,7 @@ checklist-for-a-typical-workday
 building-a-workshop
 workshops-building
 zoom-recording-downloads
-qualtrics-make-a-workflow
+qualtrics-make-a-workflow-outdated-need-new-pictures
 how-to-schedule-meetings-on-zoom
 qcl-impact-report
 qualtrics-reports
