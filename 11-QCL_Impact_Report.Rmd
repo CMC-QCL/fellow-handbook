@@ -1,86 +1,104 @@
 # QCL Impact Report
 
-impact1
-![impact1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Impact1.png?token=GHSAT0AAAAAABQHYZSEVEU3G53QQ3BZQXQQYR37Y5A)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Impact1.png)
+___
 
 ## Qualtrics – Reports
-ReportsQ1
-![ReportsQ1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq1.png?token=GHSAT0AAAAAABQHYZSEK6DVIFJSRAILBOAMYR3756A)
-ReportsQ2
-![ReportsQ2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq2.png?token=GHSAT0AAAAAABQHYZSEQIMQXWS4SVNBR3YMYR3756Q)
-ReportsQ3
-![ReportsQ3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq3.png?token=GHSAT0AAAAAABQHYZSELOCYC2CBAQYLGPB6YR3756Q)
-ReportsQ4
-![ReportsQ4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq4.png?token=GHSAT0AAAAAABQHYZSFQYAO4RUT5TRQBCIQYR3757A)
-ReportsQ5
-![ReportsQ5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq5.png?token=GHSAT0AAAAAABQHYZSFPPTHMNFLC2VBJZKQYR3757Q)
-ReportsQ6
-![ReportsQ6](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq6.png?token=GHSAT0AAAAAABQHYZSEL24FPSHNW4FYIKIUYR376AA)
-ReportsQ7
-![ReportsQ7](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq7.png?token=GHSAT0AAAAAABQHYZSE5FN3NJFYCCFSU2OYYR376AQ)
-ReportsQ8
-![ReportsQ8](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq8.png?token=GHSAT0AAAAAABQHYZSFRGGVBCQ7LWENG4PQYR376BA)
-ReportsQ9
-![ReportsQ9](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq9.png?token=GHSAT0AAAAAABQHYZSFVO4P7ADUHB6QWGE2YR376BQ)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq1.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq2.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq3.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq4.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq5.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq6.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq7.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq8.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq9.png)
+
+___
 
 ## Localist – Reports
-ReportsL1
-![ReportsL1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl1.png?token=GHSAT0AAAAAABQHYZSE2XYALVHHPH6Q6HQGYR377YQ)
-ReportsL2
-![ReportsL2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl2.png?token=GHSAT0AAAAAABQHYZSFEMHNJPHV6AQ3HNL6YR377ZA)
-ReportsL3
-![ReportsL3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl3.png?token=GHSAT0AAAAAABQHYZSEZB2SIULIDRLJWZEOYR377ZQ)
-ReportsL4
-![ReportsL4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl4.png?token=GHSAT0AAAAAABQHYZSEJBDSM76BTCH5VI6SYR3772A)
-ReportsL5
-![ReportsL5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl5.png?token=GHSAT0AAAAAABQHYZSFOOEHYMKUCPQIEU3YYR3772Q)
-ReportsL6
-![ReportsL6](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl6.png?token=GHSAT0AAAAAABQHYZSFKSVXZ76WZA6YZ7SSYR3773A)
-ReportsL7
-![ReportsL7](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl7.png?token=GHSAT0AAAAAABQHYZSFVLA4NY3QFSE6FMJ2YR3773Q)
-ReportsL8
-![ReportsL8](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl8.png?token=GHSAT0AAAAAABQHYZSE2A63PDIJIXTE5RFCYR3774A)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl1.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl2.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl3.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl4.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl5.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl6.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl7.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl8.png)
+
+
+___
 
 ## Summaries
-summaries1
-![summaries1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Summaries1.png?token=GHSAT0AAAAAABQHYZSEVMXGEE3IYWDWBB5YYR4ABNA)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Summaries1.png)
+
+___
 
 __Missing Data__  <a name="Missing Data"></a>
-missing1
-![missing1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Missing1.png?token=GHSAT0AAAAAABQHYZSFBMZXL6AES6XYE7XWYR4AB2A)
+
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Missing1.png)
+
+___
 
 __Localist__  <a name="Localist"></a>
-SumL1
-![SumL1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Suml1.png?token=GHSAT0AAAAAABQHYZSF6TS4FM5A7J5YTMPIYR4ACAQ)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Suml1.png)
 
 *	Need to get Event Name and Event ID from site and manually input it in
-sumL2
-![sumL2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Suml2.png?token=GHSAT0AAAAAABQHYZSEKFK6PPPC2U4QHFC2YR4ACBA)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Suml2.png)
+
+
+___
 
 __Qualtrics__  <a name="Qualtrics"></a>
-sumQ1
-![sumQ1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq1.png?token=GHSAT0AAAAAABQHYZSFLA6P47ULTCRDZAWAYR4ADBA)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq1.png?token=GHSAT0AAAAAABQHYZSFLA6P47ULTCRDZAWAYR4ADBA)
 
+____
 _Exit_
-sumq2
-![sumq2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq2.png?token=GHSAT0AAAAAABQHYZSESMUCYRUOLBBYXX7GYR4ADBA)
-sumq3
-![sumq3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq3.png?token=GHSAT0AAAAAABQHYZSFZNAIPJJXQD2VD7KIYR4ADBQ)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq2.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq3.png)
+
+___
 
 _Sign in_
-sumq4
-![sumq4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq4.png?token=GHSAT0AAAAAABQHYZSFRALSYK6NWABDNA5YYR4ADCA)
-sumq5
-![sumq5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq5.png?token=GHSAT0AAAAAABQHYZSFIZOKNIGJC6Q5BU3AYR4ADCQ)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq4.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq5.png)
+
+___
 
 ## Rough Draft Impact Report
-Rough1
-![Rough1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough1.png?token=GHSAT0AAAAAABQHYZSEC4CUOYRAPV7JNCWAYR4AEGA)
-Rough2
-![Rough2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough2.png?token=GHSAT0AAAAAABQHYZSFU2C6HPKGMXSTYYWMYR4AEGQ)
-Rough3
-![Rough3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough3.png?token=GHSAT0AAAAAABQHYZSFUOYHDTPB6ONAYPQMYR4AEHA)
-Rough4
-![Rough4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough4.png?token=GHSAT0AAAAAABQHYZSERJMKFQUSMSY2B3VWYR4AEIA)
-Rough5
-![Rough5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough5.png?token=GHSAT0AAAAAABQHYZSFZ57SJRUBJXOVQUIIYR4AEIA)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough1.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough2.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough3.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough4.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough5.png)

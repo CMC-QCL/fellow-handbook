@@ -67,7 +67,7 @@ ___
 
 Every week, we update cmc.edu/qcl/qcl-workshop page, whenever we open or close registration + update our schedule
 
-![Workshop webpage](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.JPG)   
+![Workshop webpage](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.JPG)    
 
 In terms of website access:
 
@@ -875,7 +875,7 @@ Alternatively, if you’d like to use local recording instead with Zoom, we have
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording11.png)
 ___
 
-## Qualtrics Make a Workflow
+## Qualtrics Make a Workflow (outdated need new pictures)
 
 *	Sign-in Survey
 
@@ -941,7 +941,7 @@ ___
 
 ___
 
-## How to schedule meetings on Zoom
+## How to schedule meetings on Zoom 
 
 
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting1.png)
