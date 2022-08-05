@@ -359,7 +359,7 @@ Step 11:
 -  Send Dr. Park an email + post a message on Teams so that I can announce them.  
 ![Publish or NOT](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_16_16.JPG)
 
----
+___
 
 __Bit.ly__ <a name="Bit.ly"></a>
 
@@ -376,11 +376,49 @@ Step 2:
     -	created shortcuts with some naming convention she made for herself.
         -	e.g., http://bit.ly/su2021-05-excel-L2-reg 
         -	e.g., https://bit.ly/fa2021-excel-1020
+        
 ![Click Create](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_40.JPG) 
 
----
+___
+
+__Emails to attendees__
+
+*	Send out a email of instructions to attendees who are not on the wait list
+  -	Add
+    -	Virtual Work info: Zoom invitation link (just in case)
+    -	In-Person Info:
+    -	Anything instructor wants to relay 
+
+![Example](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_43.JPG) 
+
+* Wait list Attendees who have been moved from the wait list to registered should be sent two emails
+  - The instructions below
+  - and the email below
+  
+![Example](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_44.JPG) 
+___
+
+__How to get Attendees Emails__ <a name="Attendees Emails"></a>
+
+*	Go to Localist and click on event  
+![Go to Localist and click on event](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees1.png?token=GHSAT0AAAAAABQHYZSFYHOXMYZTZYLSH53MYR34WIQ)  
+
+*	Click on View Confirmed Tickets  
+![Click on View Confirmed Tickets](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees2.png?token=GHSAT0AAAAAABQHYZSEU4WILBVYDC2MSVJEYR34WJA)  
+
+*	Click Export CSV  
+![Click Export CSV](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees3.png?token=GHSAT0AAAAAABQHYZSEJHA7A4AIW3YZH2XKYR34WJA)  
+
+*	Go to email and download the CSV  
+![Go to email and download the CSV](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees4.png?token=GHSAT0AAAAAABQHYZSEKGQ5RYLLDX3WBLGAYR34WJQ)  
+
+*	Open CSV and copy emails into your reminder email  
+![Open CSV and copy emails into your reminder email](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees5.png?token=GHSAT0AAAAAABQHYZSFR7C4WRV7FXZS5XZSYR34WKQ)  
+
+___
 
 ### Two days before day of workshop
+
 _Check Registration for workshop_  
 
 Check to make sure you don't have to activate the wait list and that no one canceled to add anyone new. 
@@ -456,7 +494,14 @@ Step 9:
     -	Download QR code for word doc use  
 ![Barcode for Word doc](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_37.JPG) 
 
----
+___
+
+__Bit.ly__ <a name="Bit.ly"></a>  
+  
+Make shorten links for the Qualtrics surveys  
+You could make up the customize back-half or leave it how it is.
+
+___
 
 __Flyer Word doc__ <a name="Flyer Word doc"></a>
 
@@ -466,96 +511,47 @@ __Flyer Word doc__ <a name="Flyer Word doc"></a>
     -	Instructor
     -	QR Code from Qualtrics
     -	Shorten link from Bit.ly  
-![Change to fit workshop](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Flyer1.png?token=GHSAT0AAAAAABQHYZSEEVRI534IPXMIPKZQYR34TPQ)  
+![Change to fit workshop](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_41.JPG)  
 
-__Emails (to be written)__ <a name="Emails (to be written)"></a>
-
-
-__Reminder Email__ <a name="Reminder Email"></a>
-
-*	Send out a reminder email. 
-  -	Add
-    -	Virtual Work info: Zoom invitation link (just in case)
-    -	In-Person Info:
-    -	Anything instructor wants to relay 
--	Example 1  
-![Example 1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reminder1.png?token=GHSAT0AAAAAABQHYZSEFV75QKPGDCD6E44WYR34UCA)  
-
--	Example 2  
-![Example 2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reminder2.png?token=GHSAT0AAAAAABQHYZSFCTLKZSBA56T3TYOEYR34UDA)  
-
-
-- Example 3  
-![Example 3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reminder3.png?token=GHSAT0AAAAAABQHYZSE7YC557TFTIW6H3YEYR34UEA)  
-
-- Example 4  
-
-Dear MATLAB (Level 1 – Coding+Computing) Attendees:  
- 
-Thank you for registering for the MATLAB (Level 1 – Coding+Computing) Workshop.
-
-Getting Equipped with MATLAB (Level 1 – Coding+Computing)  
-
-Instructor: Bhaven Mistry (Assistant Director of the QCL)
-
-Summary:    
-Want to learn to program, but don’t know where to start or what to install? MATLAB is a numerical computing language and environment that is surprisingly easy to use. Typically used by engineers and scientists, you can think of it as a very powerful, customizable calculator. But, interestingly, it’s this very characteristic that makes MATLAB an ideal language for programming beginners, even if you’re not mathematically inclined.
-In this workshop, we will step you through the basics of programming using the MATLAB coding environment. We will start by getting familiar with the software, learning the basics of variable assignment and manipulation, writing our own functions, and exploring some applications. If you’re completely new to programming, learning the fundamentals with MATLAB first is a great way to springboard into other languages. Alternatively, if you have some experience with programming, but have always wanted to learn what MATLAB is used for, this could be a good way to get your feet wet.
-
-Pre-requisites:  
-Internet Use: Introductory level (search, log-in, navigation of websites, etc.)
-Software: Attendees are asked to have MATLAB on their computers for the workshop. MATLAB is available for CMC students and faculty at https://www.cmc.edu/information-technology/academic-software
-
-Location:  
-Online (Attendees will receive the Zoom meeting information after registration)
-
-Participants:  
-
-Open to all CMC Students, Faculty and Staff
-
-I am attaching information for the workshop below:   
-QCL Workshop is inviting you to a scheduled Zoom meeting.
-
-Topic: [QCL Workshop] Get Equipped with MATLAB
-
-Time: Sep 29, 2021 03:00 PM Pacific Time (US and Canada)
-
-Join Zoom Meeting
-
-https://cmc-its.zoom.us/j/83773547610?pwd=Y2loa3VoWnQvWFQxUDg1V0xIbHBNdz09
-
-Meeting ID: 837 7354 7610
-
-Passcode: workshop!
-
-Required Software/Account 
-
-https://www.cmc.edu/information-technology/academic-software
-
-Let me know if you have any questions. 
- 
-Best regards,   
-Vanessa Casillas   
-QCL Graduate Fellow   
-
-__Attendees Emails__ <a name="Attendees Emails"></a>
-
-*	Go to Localist and click on event  
-![Go to Localist and click on event](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees1.png?token=GHSAT0AAAAAABQHYZSFYHOXMYZTZYLSH53MYR34WIQ)  
-
-*	Click on View Confirmed Tickets  
-![Click on View Confirmed Tickets](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees2.png?token=GHSAT0AAAAAABQHYZSEU4WILBVYDC2MSVJEYR34WJA)  
-
-*	Click Export CSV  
-![Click Export CSV](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees3.png?token=GHSAT0AAAAAABQHYZSEJHA7A4AIW3YZH2XKYR34WJA)  
-
-*	Go to email and download the CSV  
-![Go to email and download the CSV](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees4.png?token=GHSAT0AAAAAABQHYZSEKGQ5RYLLDX3WBLGAYR34WJQ)  
-
-*	Open CSV and copy emails into your reminder email  
-![Open CSV and copy emails into your reminder email](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees5.png?token=GHSAT0AAAAAABQHYZSFR7C4WRV7FXZS5XZSYR34WKQ)  
+___
 
 ### Day of workshop
+
+__Reminder Emails__ <a name="Reminder Email"></a>
+
+Instructor
+
+>Good morning Dr. Park,
+>
+>Happy Tuesday! For today's R Programming Basics workshop, you have 28 virtual attendees on Zoom. Please arrive 15 mins to 30 mins early before the workshop. The zoom information is below:
+>
+>QCL Workshop is inviting you to a scheduled Zoom meeting.
+>
+>Topic: R Programming Basics
+>Time: Jun 28, 2022, 03:00 PM Pacific Time (US and Canada)
+>
+>Join Zoom Meeting
+https://cmc-its.zoom.us/j/87002705954?pwd=WCCvAhlr2oasmRCGTVf1SCTxgz-Ttw.1
+>
+>Meeting ID: 870 0270 5954
+>Passcode: workshop!
+>
+>See you later today!
+>
+>Thank you,
+>
+>Vanessa Arias Casillas
+Graduate Fellow - Murty Sunak Quantitative and Computing Lab (QCL)
+Claremont Mckenna College
+
+Attendees
+
+Send out same email with Red color reminder
+
+![Example 1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_42.JPG)  
+
+
+
 
 __Moderator checklist__ <a name="Moderator checklist"></a>
 
