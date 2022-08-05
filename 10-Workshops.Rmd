@@ -943,8 +943,8 @@ ___
 
 ## How to schedule meetings on Zoom
 
-meeting1
-![meeting1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting1.png)
 
-meeting2
-![meeting2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting2.png)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting1.png)
+
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting2.png)
