@@ -879,72 +879,72 @@ ___
 
 *	Sign-in Survey
 
-qual1
-![qual1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual1.png)
-qual2
-![qual2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual2.png)
-qual3
-![qual3](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual3.png)
-qual4
-![qual4](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual4.png)
-qual5
-![qual5](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual5.png)
-qual6
-![qual6](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual6.png)
-qual7
-![qual7](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual7.png)
-qual8
-![qual8](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual8.png)
-qual9
-![qual9](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual9.png)
-qual10
-![qual10](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual10.png)
-qual11
-![qual11](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual11.png)
-qual12
-![qual12](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual12.png)
-qual13
-![qual13](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual13.png)
-qual14
-![qual14](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual14.png)
-qual15
-![qual15](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual15.png)
-qual16
-![qual16](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual16.png)
+
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual1.png)  
+
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual2.png)  
+
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual3.png)  
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual4.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual5.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual6.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual7.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual8.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual9.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual10.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual11.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual12.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual13.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual14.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual15.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual16.png)
 
 * Exit Survey
 
-qual17
-![qual17](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual17.png)
-qual18
-![qual18](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual18.png)
-qual19
-![qual19](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual19.png)
-qual20
-![qual20](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual20.png)
-qual21
-![qual21](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual21.png)
-qual22
-![qual22](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual22.png)
-qual23
-![qual23](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual23.png)
-qual24
-![qual24](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual24.png)
-qual25
-![qual25](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual25.png)
-qual26
-![qual26](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual26.png)
-qual27
-![qual27](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual27.png)
-qual28
-![qual28](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual28.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual17.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual18.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual19.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual20.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual21.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual22.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual23.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual24.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual25.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual26.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual27.png)
+ 
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual28.png)
 
 ___
 
 ## How to schedule meetings on Zoom
 
 meeting1
-![meeting1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting1.png?token=GHSAT0AAAAAABQHYZSE24L6RMFSN4G7AUOOYR37YIA)
+![meeting1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting1.png)
 
 meeting2
-![meeting2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting2.png?token=GHSAT0AAAAAABQHYZSEVVZOCJ4HNPKM7HWMYR37YJA)
+![meeting2](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting2.png)
