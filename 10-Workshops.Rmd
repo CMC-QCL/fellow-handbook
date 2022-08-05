@@ -392,7 +392,7 @@ __Emails to attendees__
 ![Example](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_43.JPG) 
 
 * Wait list Attendees who have been moved from the wait list to registered should be sent two emails
-  - The instructions below
+  - The instructions above
   - and the email below
   
 ![Example](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_44.JPG) 
@@ -401,20 +401,23 @@ ___
 __How to get Attendees Emails__ <a name="Attendees Emails"></a>
 
 *	Go to Localist and click on event  
-![Go to Localist and click on event](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees1.png?token=GHSAT0AAAAAABQHYZSFYHOXMYZTZYLSH53MYR34WIQ)  
+![Go to Localist and click on event](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_45.JPG)  
 
 *	Click on View Confirmed Tickets  
-![Click on View Confirmed Tickets](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees2.png?token=GHSAT0AAAAAABQHYZSEU4WILBVYDC2MSVJEYR34WJA)  
+![Click on View Confirmed Tickets](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_46.JPG)  
 
 *	Click Export CSV  
-![Click Export CSV](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees3.png?token=GHSAT0AAAAAABQHYZSEJHA7A4AIW3YZH2XKYR34WJA)  
+![Click Export CSV](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_47.JPG)  
 
 *	Go to email and download the CSV  
-![Go to email and download the CSV](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees4.png?token=GHSAT0AAAAAABQHYZSEKGQ5RYLLDX3WBLGAYR34WJQ)  
+![Go to email and download the CSV](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_48.JPG)  
 
 *	Open CSV and copy emails into your reminder email  
-![Open CSV and copy emails into your reminder email](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Attendees5.png?token=GHSAT0AAAAAABQHYZSFR7C4WRV7FXZS5XZSYR34WKQ)  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_49.JPG)  
+![Open CSV and copy emails into your reminder email](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_50.JPG)  
 
+Make sure to check Ticket column and Status Column
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_51.JPG)    
 ___
 
 ### Two days before day of workshop
@@ -550,8 +553,7 @@ Send out same email with Red color reminder
 
 ![Example 1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_42.JPG)  
 
-
-
+___
 
 __Moderator checklist__ <a name="Moderator checklist"></a>
 
@@ -569,20 +571,26 @@ __Moderator checklist__ <a name="Moderator checklist"></a>
     -	Get shorten links from bit.ly ready
     -	Set-up camera
     -	Put the spotlight on workshop video feed
-    -	Make sure the instructor is screensharing
+    -	Make sure the instructor is screen sharing
 -	Time of the workshop
     -	Welcome everyone: (change when necessary for only virtual or only in person workshops)
-        -	Welcome to the QCL! Today’s workshop is (name of event) instructed by (name of               instructor. My name is (your name) and I (as well as (other moderator)) will your              moderators for today’s workshop. If you have any questions or concerns throughout the          session, please write in chat for our virtual attendees or raise or have for our               in-person attendees. Before we start, please make sure to sign in with either the QR           code or the link provided. Lastly, this workshop will be recorded. Enjoy!
-        -	Link sign-in survey in chat and links for workshop from instructor 
-Welcome! Please sign-in: https://bit.ly/3zDNzPj 
-Link from instructor: https://github.com/CMC-QCL/Excel-L2-Workshop
-If you have any questions or concerns throughout the session, please write in chat @everyone.
-Thank you! Please sign-out: https://bit.ly/3EIOgdX 
-    -	Click Record
-        - Note: if on break, click pause not stop, we want the least number of files made
-    -	Check in attendees who attend on Localist
-        -	Cross check over Qualtrics to make sure that attendees take survey as well
-    -	Interrupt the instructor if an attendee online has a question or if the attendee               in-person has not been seen raising their hand.
+        -	Welcome to workshops hosted by the QCL! Today’s workshop is (name of event) instructed by (name of                    instructor. My name is (your name) and I (as well as (other moderator)) will your moderators for today’s              workshop. If you have any questions or concerns throughout the session, please write in chat for our virtual           attendees or raise or have for our in-person attendees. Before we start, please make sure to sign in with             either the QR code or the link provided. Lastly, this workshop will be recorded. Enjoy!
+        -	Link sign-in survey in chat and links for workshop from instructor   
+        
+>Welcome! Please sign-in: https://bit.ly/3zDNzPj   
+>
+>Link from instructor: https://github.com/CMC-QCL/Excel-L2-Workshop  
+>
+>If you have any questions or concerns throughout the session, please write in chat @everyone.  
+>
+>Thank you! Please sign-out: https://bit.ly/3EIOgdX   
+
+* During  
+    -	Click Record  
+        - Note: if on break, click pause not stop, we want the least number of files made  
+    -	Check in attendees who attend on Localist  
+        -	Cross check over Qualtrics to make sure that attendees take survey as well  
+    -	Interrupt the instructor if an attendee online has a question or if the attendee in-person has not been seen          raising their hand.
 -	End of workshop
     -	Link Exit survey in chat
     -	Thank everyone for coming
@@ -591,45 +599,29 @@ Thank you! Please sign-out: https://bit.ly/3EIOgdX
 -	Send zoom meeting recordings to attendees that attended
     -	Note: after every semester we dump recordings into a box file, before CMC does it
 
+___
+
 ### Day after workshop
 
 __Qualtrics__ <a name="Qualtrics"></a>
 
 *	Give “Collaborate” to instructor on surveys
+  - Make sure they can not edit
+  
+___
 
 __Zoom Recordings__ <a name="Zoom Recordings"></a>
 
 *	Only provided to the attendees that showed up for the workshop
 *	Records are ready to send the next day after the workshop
-![Open CSV and copy emails into your reminder email](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Zoom1.png?token=GHSAT0AAAAAABQHYZSFNEPWMMCXVFZZCKTAYR34ZEA)  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_52.JPG)
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_53.JPG) 
 
 __Ending email example__ <a name="Ending email example"></a>
 
-Subject: Thank you for attending the (name of workshop) Workshop
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_54.JPG) 
 
-Hello (name of workshop) attendees,
-
-Thank you for attending the workshop. 
-
-I have provided the links for sign-in and sign-out:
-
-Sign-in:
-(Link of survey) 
-
-Sign-out:
-(Link of survey)
-
-Please make sure to complete the surveys, they count as your attendance. If you have already completed them, thank you.
-
-(all pasted from zoom)
-
-Note: records are only provided if you attend the workshop 
-
-Lastly, if there was any homework assigned for this workshop, please send all documents to: qcl@cmc.edu for grading.
-
-Thank you, 
-(your name)
-QCL Graduate Fellow
+___
 
 ### Workshop Issues
 
