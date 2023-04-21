@@ -21,12 +21,18 @@ ___
     -	Get Equipped with LaTeX  (level 1)               
     -	Get Equipped with MATLAB  (level 1)      
 -	Vanessa
-    -	Excel     
-    -	GIS (ArcGIS Online for Mac and Windows)
+    -	Exploring Data in Excel Part 1 (level 1)     
+    - Exploring Data in Excel Part 2 (level 1)  
+    - Excel Power Query (level 2)  
+    - Excel ToolPak (level 2)  
+    -	ArcGIS Online Basics (level 1)  
+    - ArcGIS Online Exploring Data (level 1)  
 -	Jorge 
-    -	SQL
-    - Python
-    - R
+    -	SQL Basics
+    - Python Programming Basics(level 1) 
+    - Python Data Manipulation with Pandas and NumPy (level 2)
+    - R Programming Basics(level 1) 
+    - R Visualization (level 2)
 -	Others (need instructors)
     -	Julia = Alfonso Landeros 
     -	XSEDE
@@ -37,7 +43,7 @@ ___
     -	Alteryx = Brandon Bak 
     -	Machine Learning = Aashita Kesarwani 
     - Power BI = Jillian Seymour 
-    - STATA
+    - STATA = William Lincoln
 
 ___
 
