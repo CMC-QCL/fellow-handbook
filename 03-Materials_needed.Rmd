@@ -1,4 +1,5 @@
 # Materials needed   
 
-- [ ]	Computer
-- [ ] Printer Cord
+-  [ ] Computer
+-  [ ] Printer Cord
+

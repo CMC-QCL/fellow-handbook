@@ -62,10 +62,6 @@ Monday, February 21, 2022, at 5pm - 7pm for Get Equipped with MATLAB (TBA as a h
 We have only scheduled up to Spring Break, I will have to follow up in the future for the rest of the semester's dates. Do these dates and time work for you to instruct the workshops?
 
 Thank you,   
-Vanessa Arias Casillas  
-Graduate Fellow - Murty Sunak Quantitative and Computing Lab (QCL)  
-Claremont Mckenna College  
-vanessa.casillas@claremontmckenna.edu  
 
 ___
 
@@ -335,13 +331,47 @@ Step 9:
 * Check to make sure that Attendees Questions are correct  
 
 1.	"Please enter your student ID # (Must be 8 characters). For all faculty/staff/non-Claremont Colleges person, please insert 00000000." (Required)  
-2.	"What gender do you identify with? (optional)" 
-3.	"Which one of the Claremont Colleges are you from?" (Required)  
-4.	"If not from the Claremont Colleges, where are you from?"  
-5.	"Are you a Freshman, Sophomore, Junior, Senior, Graduate Student, Faculty, Staff or Other?" (Required)  
-6.	"If Other, please specify:"    
-7. I agree to the Ticket Cancelation Policy: If you need to cancel your reservation, please contact us by email at qcl@cmc.edu at least 24 hours prior to the event. A prompt cancellation will help us contact the next person on the waitlist.
-8. I agree to the No Show Policy: In case of 2 or more no-shows (without cancelation), you will lose your privilege to take our free workshops during the semester.
+
+2.	"What gender do you identify with? (optional)"  
+  - Female  
+  - Male  
+  - Non-binary  
+  - Self identify
+  - Prefer not to say  
+  - Other  
+  
+3.  "If Other, please write your identified gender:"  (optional)
+
+4.	"Which one of the Claremont Colleges are you from?" (Required)  
+  - Claremont McKenna College
+  - Claremont Graduate University
+  - Pomona College
+  - Scripps College
+  - Harvey Mudd College
+  - Pitzer College
+  - Keck Graduate Institute
+  - Other
+  
+5.	"If not from the Claremont Colleges, where are you from?" 
+
+6.	"Are you a Freshman, Sophomore, Junior, Senior, Graduate Student, Faculty, Staff or Other?" (Required)  
+  - Freshman
+  - Sophomore
+  - Junior
+  - Senior
+  - Graduate Student (Masters)
+  - Graduate Student (Doctoral)
+  - Faculty
+  - Staff 
+  - Other
+
+7.	"If Other, please specify:"    
+
+8. I agree to the Ticket Cancelation Policy: If you need to cancel your reservation, please contact us by email at qcl@cmc.edu at least 24 hours prior to the event. A prompt cancellation will help us contact the next person on the waitlist.
+  - I agree
+
+9. I agree to the No Show Policy: In case of 2 or more no-shows (without cancelation), you will lose your privilege to take our free workshops during the semester.
+  - I agree
 
 ![Check to make sure that Attendees Questions are correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_14_14.JPG)
 
