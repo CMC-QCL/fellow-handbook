@@ -1,10 +1,10 @@
 # Graduate Fellows Meeting and Bi-Weekly Meeting
-* BOX  
-    -	Titled: QCL Fellows Meeting Agenda  
-    - Titled: QCL Staff Meeting Agenda
-    -	https://claremontmckenna.app.box.com/folder/0  
+* One Note Application  
+    -	Titled: QCL Graduate Fellows Notebook  
+    - Titled: QCL Staff Notebook
+    - Titled: QCL Workshop Notebook
 
-![folder look like](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section9_1.JPG){Height=500} 
+![folder look like](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section9_1A.JPG){Height=500} 
 
 
 -	Agenda  

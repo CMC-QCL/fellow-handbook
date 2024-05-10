@@ -1,3 +1,9 @@
+---
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
 # Employee Materials
 
 - Employee ID
@@ -63,8 +69,8 @@
     - https://www.instagram.com/cmc.qcl/  
 - Facebook  
     - https://www.facebook.com/theQCL  
-- XSEDE  
-    - https://portal.xsede.org/my-xsede#/guest  
+- Access  
+    - https://allocations.access-ci.org/  
 - Data Science Capstone  
     - https://sites.cmc.edu/dscapstone/  
 
@@ -88,7 +94,7 @@ _Issues: contact another Graduate Fellow or IT (help@cmc.edu)_
 |Teams                              |         |         |Dr. Park      |
 |Instagram                          |         |         |Dr. Park/GradF|
 |Facebook                           |         |         |Dr. Park/GradF|
-|XSEDE                              |         |         |Dr. Park      |
+|Access                             |         |         |Dr. Park      |
 |Data Science Capstone              |         |         |Communications|
 
 _Firefox: bookmark websites_
@@ -101,13 +107,13 @@ __Important Dates__
     -	Biweekly: Wednesdays 10am -11am  
 -	Graduate Fellow meetings  
     -	Talk to Dr. Park to set up best time  
-    -	Current Fellow meeting: Monday 10am-11am  
+    -	Current Fellow meeting: Tuesday 10am-11am  
     -	New Time: _______________________  
 -	Workshops   
-    -	Monday 3pm-5pm   
-    -	Wednesday 3pm-5pm    
--	Staff days
-    -	Janna will send out email  
+    -	Wednesday 4:15pm-5:45pm   
+    -	Thursday 4:15pm-5:45pm   
+-	Staff Lunch days
+    -	Program Assistant will send out email  
     - food provided  
 - Employees Schedule (20 hours a week)  
     -	Talk to Dr. Park
@@ -116,8 +122,8 @@ __Important Dates__
 
 |Monday	|Tuesday  |Wednesday |Thursday |Friday |
 |:------|:-------:|:--------:|:-------:|------:|
-|Current Fellow meeting: 10am-11am||Biweekly Team meeting: 10am -11am|||
-|Workshop: 3pm – 5pm||Workshop: 3pm-5pm|        ||
+||Current Fellow meeting: 10am-11am|Biweekly Team meeting: 10am -11am|||
+|||Workshop: 4:15pm-5:45pm|Workshop: 4:15pm-5:45pm||
 
 _Days off: Holidays and Academic break_
 
