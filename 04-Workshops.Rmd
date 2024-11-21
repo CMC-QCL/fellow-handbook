@@ -556,84 +556,195 @@ ___
 
 ### Day of workshop
 
-__Reminder Emails__ <a name="Reminder Email"></a>
+<font size="5">__Morning of the Workshop__</font>
 
-Instructor
+__[ ]&nbsp; Send out reminder emails to registered of the instructions for workshop<br>__
+<font size="1">
+```
+Example:
 
->Good morning Dr. Park,
->
->Happy Tuesday! For today's R Programming Basics workshop, you have 28 virtual attendees on Zoom. Please arrive 15 mins to 30 mins early before the workshop. The zoom information is below:
->
->QCL Workshop is inviting you to a scheduled Zoom meeting.
->
->Topic: R Programming Basics
->Time: Jun 28, 2022, 03:00 PM Pacific Time (US and Canada)
->
->Join Zoom Meeting
-https://cmc-its.zoom.us/j/87002705954?pwd=WCCvAhlr2oasmRCGTVf1SCTxgz-Ttw.1
->
->Meeting ID: 870 0270 5954
->Passcode: workshop!
->
->See you later today!
->
->Thank you,
->
->Vanessa Arias Casillas
-Graduate Fellow - Murty Sunak Quantitative and Computing Lab (QCL)
-Claremont Mckenna College
+Subject: Reminder - [QCL Workshop] Tableau: Visualization Instructions
 
-Attendees
+Dear QCL Workshop Attendees:
 
-Send out same email with Red color reminder
+Thank you for registering for the Tableau: Visualization Workshop. This is a friendly reminder that your workshop is TODAY.
 
-![Example 1](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_42.JPG)  
+If you need to cancel, please do so earlier rather than later to give others a chance to register.
 
-___
+Ticket Cancelation and No-Show Policy:
+If you need to cancel your reservation, please contact us by email at qcl@cmc.edu at least 24 hours prior to the event. A prompt cancellation will help us contact the next person on the waitlist. In case of 2 or more no-shows (without cancelation), you will lose your privilege to take our free workshops during the semester.
 
-__Moderator checklist__ <a name="Moderator checklist"></a>
+Tableau: Visualization
+Tableau is the most powerful, secure, and flexible end-to-end analytics platform for your data. It is designed for the individual, but scaled for the enterprise, Tableau is the only business intelligence platform that turns your data into insights that drive action.
 
-*	Morning of
-    -	Paste Zoom info in QCL Workshop – Workshop Control Booth chat in Teams 
-    -	Send out reminders if you haven’t already
--	Show up 30 minutes before workshop
-    -	Print out flyers
-        -	Put on tables where the attendees will sit
-    -	Log into Zoom (workshops)
-        -	Start 30 minutes before
-        -	Check audio and video
-        -	Make Instructor co-host
-        -	Test runs with instructor
-    -	Get shorten links from bit.ly ready
-    -	Set-up camera
-    -	Put the spotlight on workshop video feed
-    -	Make sure the instructor is screen sharing
--	Time of the workshop
-    -	Welcome everyone: (change when necessary for only virtual or only in person workshops)
-        -	Welcome to workshops hosted by the QCL! Today’s workshop is (name of event) instructed by (name of                    instructor. My name is (your name) and I (as well as (other moderator)) will your moderators for today’s              workshop. If you have any questions or concerns throughout the session, please write in chat for our virtual           attendees or raise or have for our in-person attendees. Before we start, please make sure to sign in with             either the QR code or the link provided. Lastly, this workshop will be recorded. Enjoy!
-        -	Link sign-in survey in chat and links for workshop from instructor   
-        
->Welcome! Please sign-in: https://bit.ly/3zDNzPj   
->
->Link from instructor: https://github.com/CMC-QCL/Excel-L2-Workshop  
->
->If you have any questions or concerns throughout the session, please write in chat @everyone.  
->
->Thank you! Please sign-out: https://bit.ly/3EIOgdX   
+Tableau public gallery:
+https://public.tableau.com/en-us/gallery/analyzing-ums?gallery=votd
 
-* During  
-    -	Click Record  
-        - Note: if on break, click pause not stop, we want the least number of files made  
-    -	Check in attendees who attend on Localist  
-        -	Cross check over Qualtrics to make sure that attendees take survey as well  
-    -	Interrupt the instructor if an attendee online has a question or if the attendee in-person has not been seen          raising their hand.
--	End of workshop
-    -	Link Exit survey in chat
-    -	Thank everyone for coming
-    -	Clean up and back up
--	Send email reminder if there is a low rate for surveys 
--	Send zoom meeting recordings to attendees that attended
-    -	Note: after every semester we dump recordings into a box file, before CMC does it
+Target Audience:
+This workshop is designed for beginners in data visualization. No prior programming knowledge is needed.
+
+Required Software/Account:
+Tableau offers one-year Tableau licenses to faculty and students at accredited academic institutions.
+Install Tableau
+Public Version: https://public.tableau.com/en-us/s/download Free Trial: https://www.tableau.com/en-gb/products/trial Students Access: https://www.tableau.com/academic/students Faculty Access: https://www.tableau.com/academic/teaching
+
+Agenda
+    What is Tableau
+    Tableau Desktop Workspace
+    Tableau Data Connections
+    Filtering Data
+    Sorting and calculations
+    Charts and graphs
+    Sharing and exporting
+
+Before you start:
+    Tableau Desktop application is available on your PC.
+    Download Datasets for Hands-On exercise
+    Datasets
+http://bit.ly/qcl-tableau-Level1-data
+
+Location
+Hi there,
+You are invited to a Zoom meeting.
+When: Nov 7, 2024 04:15 PM Pacific Time (US and Canada)
+Register in advance for this meeting:
+https://cmc-its.zoom.us/meeting/register/tZckcuCvqzwrHN0jKw9dd-Q6PaMERfQnA_f8
+After registering, you will receive a confirmation email containing information about joining the meeting. 
+
+Let me know if you have any questions.
+
+Best regards, 
+QCL Graduate Fellow
+```
+</font>
+
+__[ ]&nbsp; Paste Zoom info in QCL Workshop Channel called "Workshop Control Booth chat" in Teams<br>__
+
+Example:<br>
+<font size="1">
+
+|Date|Time|For Zoom|Registered|Waitlist|Attended|Instructor|Moderator|For Instructors|For Students|
+|----|----|--------|----------|--------|--------|----------|---------|--------------|:-----------|
+|Wed, 09/04/24|4:15pm-5:45pm|Equation Writing with LaTeX|10/15|n/a|9/10|Bhaven Mistry|Vanessa| | |	 	 
+|Thu, 09/05/24|4:15pm-5:45pm|Equation Writing with LaTeX|14/15|n/a|	 	 |Bhaven Mistry|Daniel|Meeting ID: 899 0024 6992| https://cmc-its.zoom.us/meeting/register/tZ0kd-mqqj0jE9aDbYH-t6RrsOCl1LXhOl9t|
+</font>
+
+__[ ]&nbsp; Show up 30 minutes before workshop<br>__
+
+-   To ensure you have time to fix anything that is an issue.<br>
+
+<!-- Visual----------------------------------------------------------- Break -->
+
+<font size="5">__Before of the Workshop__</font>
+
+__[ ]&nbsp; Get shorten links from bit.ly ready<br>__
+
+-   Instructor links, surveys and check-ins
+    -    [Bit.ly Website](https://app.bitly.com/BlagnjZ6KKe/home)
+
+__[ ]&nbsp; Log into Zoom (workshops)<br>__
+
+-   Moderator Login   
+    -   [Zoom Website](https://zoom.us/signin#/login)
+
+__[ ]&nbsp; Make sure the instructor is screen sharing<br>__
+
+-   Instructors like vertical or Horizontal<br>
+    -   Check audio and video<br>
+    -   Make Instructor co-host<br>
+    -   Test runs with instructor<br>
+
+__[ ]&nbsp; Put the spotlight on workshop video feed<br>__
+
+-   Click on the three "..." in the right top corner then click spotlight<br>
+    -   There must be at least three people in the zoom.<br>
+    
+__[ ]&nbsp; In-person? Print out flyers<br>__
+
+-   There is a QR code picture missing in the example below:<br>
+<font size="1">
+```
+[QCL Workshop] Data Wrangling with R
+Date & Time: Monday, October 3, 2022, from 3pm to 5pm
+Instructor: Dr. Jeho Park
+
+Sign-In
+ 
+[QR Code Picture] 
+ 
+https://bit.ly/3rnkAxw
+
+Exit Survey
+
+[QR Code Picture]
+ 
+https://bit.ly/3rofAZq
+```
+</font>
+
+__[ ]&nbsp; In-person? Set-up camera<br>__
+
+-   Includes, tripod and hubble/sony camera<br>
+
+<!-- Visual----------------------------------------------------------- Break -->
+
+<font size="5">__During of the Workshop__</font>
+
+__[ ]&nbsp; Welcome everyone and Moderate<br>__
+<font size="1">
+```
+Script:
+
+Hello! Welcome, We are just waiting on a few more individuals to join, we will be getting started in a few minutes. 
+```
+``` 
+Script when you start:
+Welcome to this workshop hosted by the QCL! Today’s workshop is (name of event) instructed by (name of instructor. My name is (your name), I will be your moderator for today’s workshop. If you have any questions or concerns throughout the session, please write in chat for our attendees to see or raise your emoji hand. (Instructor's name) please take it away!
+
+Note: We don't say this unless we have it "Before we start, please make sure to sign in with either the QR code or the link provided. Lastly, this workshop will be recorded. Enjoy!"
+```
+</font>
+
+__[ ]&nbsp; Links for workshop from instructor or sign in<br>__
+
+-   Any links that the instructor wants you to share<br>
+    -   note: we use to do sign-in links as well, stop doing this Fall 2024 Semester<br>
+<font size="1">
+    ```
+    Example:
+
+    Welcome! Please sign-in: https://bit.ly/3zDNzPj
+
+    Link from instructor: https://github.com/CMC-QCL/Excel-L2-Workshop
+
+    If you have any questions or concerns throughout the session, please write in chat (everyone?).
+
+    Thank you! Please sign-out: https://bit.ly/3EIOgdX
+    ```
+</font>
+
+__[ ]&nbsp; Check in attendees who attend on Localist<br>__
+
+-   Who came to the workshop? 
+    -   Zoom > Reports > Usage > change the dates to the workshop > export participants with unique users with meeting data<br>
+
+__[ ]&nbsp; Interrupt the instructor if an attendee as a question<br>__
+
+-   The instructor will tell you how they would like to be interrupted<br>
+
+__[ ]&nbsp; Click Record<br>__
+
+-   Note: we do not record anymore, unless there is new instructor (graduate fellow or outside instructor)
+
+<!-- Visual----------------------------------------------------------- Break -->
+
+<font size="5">__End of the Workshop__</font>
+
+__[ ]&nbsp; Link exit survey<br>__
+
+-   Note: Zoom does this automatically now, so we do not do this anymore<br>
+
+__[ ]&nbsp; Thank everyone for coming, Clean up and pack up<br>__
 
 ___
 
