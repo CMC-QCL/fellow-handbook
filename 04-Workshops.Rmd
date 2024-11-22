@@ -14,25 +14,27 @@ ___
 ## Possible Workshops
 
 *	Dr. Park
-    -	R Programming Basics  (level 1)   
-    -	Data Wrangling with R (level 2)
+    - Python Programming Basics(level 1) 
+    - Python Data Manipulation with Pandas and NumPy (level 2)
     -	Tableau  (level 1)   
 -	Bhaven
     -	Get Equipped with LaTeX  (level 1)               
-    -	Get Equipped with MATLAB  (level 1)      
--	Vanessa
-    -	Exploring Data in Excel Part 1 (level 1)     
-    - Exploring Data in Excel Part 2 (level 1)  
-    - Excel Power Query (level 2)  
-    - Excel ToolPak (level 2)  
-    -	ArcGIS Online Basics (level 1)  
-    - ArcGIS Online Exploring Data (level 1)  
--	Jorge 
-    -	SQL Basics
-    - Python Programming Basics(level 1) 
-    - Python Data Manipulation with Pandas and NumPy (level 2)
-    - R Programming Basics(level 1) 
+    -	Get Equipped with MATLAB  (level 1)  
+    -	R Programming Basics  (level 1)   
+    -	Data Wrangling with R (level 2)
     - R Visualization (level 2)
+-	Vanessa
+    -	Excel: Exploring Data (level 1)     
+    - Excel: Conditioning Data (level 2)  
+    - Excel: Power Query (level 2)  
+    - Excel: ToolPak (level 2)  
+    -	ArcGIS Online: Exploring Libraries (level 1)  
+    - ArcGIS Online: Mapping your data (level 2)  
+-	Graduate Fellow
+    -	SQL Basics
+    - Git: Version Control for Beginners
+    - Bash
+    - Super Computing
 -	Others (need instructors)
     -	Julia = Alfonso Landeros 
     -	XSEDE
@@ -44,6 +46,8 @@ ___
     -	Machine Learning = Aashita Kesarwani 
     - Power BI = Jillian Seymour 
     - STATA = William Lincoln
+    
+Note: Title now have to follow this format = R:Programming Basics    
 
 ___
 
@@ -64,10 +68,10 @@ We have only scheduled up to Spring Break, I will have to follow up in the futur
 Thank you,   
 
 ___
-
+<!-- This is now automated!
 ## Editing the QCL-CMC Website
 
-Every week, we update cmc.edu/qcl/qcl-workshop page, whenever we open or close registration + update our schedule
+Every week, we update cmc.edu/qcl/qcl-workshop page, whenever we open or close registration + update our schedule but now this is
 
 ![Workshop webpage](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_1.JPG)    
 
@@ -90,7 +94,7 @@ In terms of website access:
 ![edit then click save](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_7.JPG)
 
 ___
-
+-->
 ## Workflow
 
 ### Two weeks before day of workshop
@@ -104,7 +108,7 @@ ___
 
 ___
 
-___[QCL Workshop] Title___    
+<font size="5">___[QCL Workshop] Title___</font>      
 
 About this Event  
 Title  
@@ -117,7 +121,7 @@ Participants:
 
 ___
 
-___Email to Instructors for Notes to turn into Summaries___
+<font size="5">___Email to Instructors for Notes to turn into Summaries___</font>   
 
 ```
 
@@ -148,8 +152,7 @@ Thank you,
 Graduate Fellow - Murty Sunak Quantitative and Computing Lab (QCL)  
 
 ```
-___Example Instructors Notes turned into Summaries___   
-
+<font size="5">___Example Instructors Notes turned into Summaries___</font>   
 
  _[QCL Workshop] R Programming Basics (Level 1 – Coding)_
 
@@ -163,12 +166,12 @@ This workshop is designed for beginners in R programming, so no prior knowledge 
 We will be using RStudio Cloud for hands-on. Please create a free account at https://rstudio.cloud before join the workshop.
 >
 >Agenda:  
-•	Basics of R and RStudio
-•	R Programming Environment: Workspace, Working Directory, Package
-•	R objects (data structure and function)
-•	R packages for data import and export
-•	R graphics for simple plotting methods
-•	Basic statistical analysis using R
+•	Basics of R and RStudio <br>
+•	R Programming Environment: Workspace, Working Directory, Package <br>
+•	R objects (data structure and function) <br>
+•	R packages for data import and export <br>
+•	R graphics for simple plotting methods <br>
+•	Basic statistical analysis using R <br>
 >
 >Location:  
 Hybrid (In-person: QCL Classroom, Online: Zoom information will be provided to the attendees after registration)
@@ -182,16 +185,16 @@ _Data Wrangling with R (Level 2 - Data)_
 >Summary:  
 Data wrangling is the process of obtaining, cleaning, reshaping, and transforming raw (and messy) data into a useable form of processed (and tidy) data. It is known that a majority of data analysts and data scientists spend as much as 80% of their time on data wrangling. So it's essential to get familiar with good data wrangling tools that help you save time and avoid errors. In this hands-on workshop, you will learn basic skills to import, export, clean, reshape, transform, and visualize data using well-known data science package called tidyverse.
 >
->Learning Objectives: (You will learn how to)  
-Import and export data
-Clean, reshape and transform data
-Make messy data into tidy data
-Visualize tidy data using ggplot2 (if time permits)
+>Learning Objectives: (You will learn how to)<br>
+Import and export data <br>
+Clean, reshape and transform data <br>
+Make messy data into tidy data <br>
+Visualize tidy data using ggplot2 (if time permits) <br>
 >
 >Prerequisites:  
-Basic knowledge of R and RStudio (e.g., R Programming for Beginners - Level 1)
-RStudio Cloud account; if you don't have one yet, please create a new account from https://rstudio.cloud site.
-Tidyverse package; please make sure that you have installed the tidyverse package in your R environment. See https://www.tidyverse.org for more information.
+Basic knowledge of R and RStudio (e.g., R Programming for Beginners - Level 1) <br>
+RStudio Cloud account; if you don't have one yet, please create a new account from https://rstudio.cloud site. <br>
+Tidyverse package; please make sure that you have installed the tidyverse package in your R environment. See https://www.tidyverse.org for more information. <br>
 >
 >Location:  
 Hybrid (In-person: QCL Classroom, Online: Zoom information will be provided to the attendees after registration)
@@ -205,23 +208,23 @@ _GIS - Part 2 (Level 1 - Data) Workshop_
 >About this Event
 >
 >Summary:  
-This workshop will introduce you to the ever-expanding and fascinating world of geographic information systems (GIS). In three 2-hour sessions you will learn about what GIS is, how it is used in a multitude of industries and fields, and how to get started using GIS software. We will examine GIS concepts and software tools used to visualize real-world features, discover patterns, and communicate information. Primarily using ArcGIS Online (if you can hyperlink: https://doc.arcgis.com/en/arcgis-online/get-started/what-is-agol.htm) you will work with GIS maps, explore data, and analyze maps and data as you learn fundamental concepts that underlie GIS technology.
+This workshop will introduce you to the ever-expanding and fascinating world of geographic information systems (GIS). In three 2-hour sessions you will learn about what GIS is, how it is used in a multitude of industries and fields, and how to get started using GIS software. We will examine GIS concepts and software tools used to visualize real-world features, discover patterns, and communicate information. Primarily using ArcGIS Online (if you can hyperlink: https://doc.arcgis.com/en/arcgis-online/get-started/what-is-agol.htm) you will work with GIS maps, explore data, and analyze maps and data as you learn fundamental concepts that underlie GIS technology. <br>
 Through a series of presentations, in-class tutorials, and homework assignments this workshop will give you a strong beginning foundation on how to make maps and explore spatial data to identify patterns and insights in your data you never knew possible. You will come away from this workshop with the understanding you need to start working with GIS and utilize it in your own work and explorations. You do not need any previous experience – just your own curiosity! 
 Students in this workshop (in fact, all Claremont Colleges students) have free access to a wide variety Esri GIS products. For more information, check out the Claremont Colleges Library Geographic Information System (GIS) Services home page, https://library.claremont.edu/gis/ 
 >
 >Learning Objectives: (You will learn how to)  
 Topics will include: 
-•	Introduction to the GIS Platform 
-•	Theoretical basis of GIS and the Geographic Approach 
-•	What can you do with GIS? 
-•	Understanding GIS data 
-•	An introduction to Coordinate systems and Projections 
-•	Acquiring and selecting GIS Data 
-•	Utilizing and preparing your own data for GIS 
-•	Creating maps – basic cartography, symbology 
-•	The US Census and GIS 
-•	Introductory Spatial Analysis 
-•	Sharing results – physical maps and the world online maps 
+•	Introduction to the GIS Platform  <br>
+•	Theoretical basis of GIS and the Geographic Approach  <br>
+•	What can you do with GIS?  <br>
+•	Understanding GIS data  <br>
+•	An introduction to Coordinate systems and Projections  <br>
+•	Acquiring and selecting GIS Data  <br>
+•	Utilizing and preparing your own data for GIS  <br>
+•	Creating maps – basic cartography, symbology  <br>
+•	The US Census and GIS  <br>
+•	Introductory Spatial Analysis  <br>
+•	Sharing results – physical maps and the world online maps  <br>
 >
 >Location:  
 The following event will be conducted in a hybrid format:
@@ -232,7 +235,7 @@ Participants:
 7C Students, Faculty and Staff  
 
 ___
-
+<!-- Program Coordinator does this now
 ### One week before day of workshop
 
 __Moderator__ <a name="Moderator"></a>
@@ -269,7 +272,8 @@ Step 5:
 ![On meeting tab, it should there](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_5_5.JPG) 
 
 ___
-
+-->
+<!-- Program Coordinator does this now
 __Localist__ <a name="Localist"></a>   
 
 Step 1:	
@@ -416,8 +420,8 @@ Step 2:
 ![Click Create](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_40.JPG) 
 
 ___
-
-__Emails to attendees__
+-->
+<font size="5">__Emails to attendees__</font>
 
 *	Send out a email of instructions to attendees who are not on the wait list
   -	Add
@@ -434,7 +438,7 @@ __Emails to attendees__
 ![Example](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_44.JPG) 
 ___
 
-__How to get Attendees Emails__ <a name="Attendees Emails"></a>
+<font size="5">__How to get Attendees Emails__ <a name="Attendees Emails"></a></font>
 
 *	Go to Localist and click on event  
 ![Go to Localist and click on event](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_45.JPG)  
@@ -452,7 +456,7 @@ __How to get Attendees Emails__ <a name="Attendees Emails"></a>
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_49.JPG)  
 ![Open CSV and copy emails into your reminder email](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_50.JPG)  
 
-Make sure to check Ticket column and Status Column
+Make sure to check Ticket column and Status Column, you do not want to send to cancelled and waitlist individuals
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_51.JPG)    
 ___
 
@@ -463,7 +467,7 @@ _Check Registration for workshop_
 Check to make sure you don't have to activate the wait list and that no one canceled to add anyone new. 
 
 ### Day before day of workshop
-
+<!-- Program Coordinator does this now in zoom and its automated
 __Qualtrics__ <a name="Qualtrics"></a>
 
 Step 1: 
@@ -541,8 +545,8 @@ Make shorten links for the Qualtrics surveys
 You could make up the customize back-half or leave it how it is.
 
 ___
-
-__Flyer Word doc__ <a name="Flyer Word doc"></a>
+-->
+__In-person Workshop? Flyer Word doc__ <a name="Flyer Word doc"></a>
 
 *	Change to fit workshop
     -	Title
@@ -771,7 +775,7 @@ __[ ]&nbsp; Thank everyone for coming, Clean up and pack up<br>__
 ___
 
 ### Day after workshop
-
+<!-- We do not do this anymore
 __Qualtrics__ <a name="Qualtrics"></a>
 
 *	Give “Collaborate” to instructor on surveys
@@ -789,6 +793,10 @@ __Zoom Recordings__ <a name="Zoom Recordings"></a>
 __Ending email example__ <a name="Ending email example"></a>
 
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_54.JPG) 
+-->
+__Debrief of the Workshop__
+
+* Add attended numbers to meeting notes and any information  
 
 ___
 
@@ -799,10 +807,10 @@ __New attendees after closed registration__
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_55.JPG) 
 
 * Issue Ticket tab on Confirmed Tickets page
-![Issue Ticket tab on Confirmed Tickets page](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_56.JGP)  
+![Issue Ticket tab on Confirmed Tickets page](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Section10_56.JPG)  
 
 *	Fill in all info
-![Fill in all info](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_57.JGP)  
+![Fill in all info](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Section10_57.JPG)  
 
 *	After filling out the form, the attendee will get an email from Localist
     -	Send out an email follow up to the new attendee

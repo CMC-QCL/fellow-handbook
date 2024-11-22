@@ -13,5 +13,18 @@
     -	Follow along in the meeting  
     -	TO DOs  
         -	Your assignments for the week
+```        
+Template:
+Date:
+#Weekly one-on-one
+#Workshop Schedule
+#School Schedule
+#Workshops
+#Consulation
+#Impact Report
+#ETC
+#Other
+Workshop schedule
+```
         
 ![Agenda notes example](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section9_2.JPG)

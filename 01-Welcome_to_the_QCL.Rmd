@@ -1,6 +1,6 @@
 # Welcome to the QCL
 
-Mission Statement  
+__Mission Statement__ <br>
 
 "The Murty Sunak Quantitative and Computing Lab (QCL) serves as the transdisciplinary campus hub and comprehensive support center for students and faculty seeking assistance with a broad spectrum of quantitative issues, including mathematics, computation, statistics, programming, data analysis, and visualization."  
 
@@ -19,17 +19,19 @@ And if I had asked what music means to you, would you have answered:
   
 ## Materials needed   
 
--  Computer
--  Printer Cord
+-  Computer (laptop)
+-  Printer Cord to print out papers from the printer
 
 ## New Employee Sign On 
 
-### Before 
+__Before__ <br>
+
 - Resume and Cover Letter and References   
 - Interview  
 - Acceptance  
 
-### After
+__After__<br>
+
 - HR email 
   - Orientation 
   - Workday 
