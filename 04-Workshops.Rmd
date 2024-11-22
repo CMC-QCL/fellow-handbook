@@ -558,6 +558,28 @@ ___
 
 <font size="5">__Morning of the Workshop__</font>
 
+__[ ]&nbsp; Send out reminder email instructor for workshop<br>__
+<font size="1">
+```
+Example:
+
+Subject: [QCL Workshop] Get Equipped with LaTeX (Level 1)  - Reminder for Instructor
+
+Good morning (Instructor),
+
+Happy Monday! For today's Get Equipped with LaTeX workshop you have 4 virtual on zoom. Please arrive 15-30mins before the workshop. The zoom information is below:
+
+Meeting ID: 886 1796 0370
+Passcode: workshop!
+
+See you later today!
+
+Thank you,
+Graduate Fellow
+
+```
+</font>
+
 __[ ]&nbsp; Send out reminder emails to registered of the instructions for workshop<br>__
 <font size="1">
 ```
