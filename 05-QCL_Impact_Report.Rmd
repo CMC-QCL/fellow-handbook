@@ -1,9 +1,20 @@
 # QCL Impact Report
 
- 
+We need to do an Impact Report annual(Spring) and semi-annual(Summer) 
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Impact1.png)
+
 ___
 
+## Zoom - Reports
+
+* Go on to Zoom and Export the same reports you have before for check in to put in the archive and double check the check ins
+    -   Zoom > Reports > Usage > change the dates to the workshop > export participants with unique users with meeting data
+    -   Zoom > Surveys > Export Survey
+- Put them into a BOX folder and share the folder with Program Coordinator
+
+___
+    
+<!-- We do not do this anymore, we have Zoom Surveys now
 ## Qualtrics – Reports
  
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq1.png)
@@ -25,28 +36,35 @@ ___
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq9.png)
 
 ___
+-->
 
 ## Localist – Reports
+
+Before you download, make sure you have checked in everyone who came to the workshop.
+
+Go to workshop  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl1.png)  
+Click on View Confirmed Tickets  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl2.png)  
+
+Click on Export CSV  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl3.png)  
+
+A email will be sent to your email account   
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl4.png)  
  
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl1.png)
- 
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl2.png)
- 
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl3.png)
- 
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl4.png)
- 
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl5.png)
- 
+Click on the link  
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl5.png)  
+
+It will download the excel file or CSV 
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl6.png)
- 
+You will receive one at a time  
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl7.png)
- 
+Put all the files in a BOX folder and share it will the Program Coordinator   
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsl8.png)
 
-
 ___
-
+<!-- Program Coordinator does this
 ## Summaries
  
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Summaries1.png)
@@ -90,7 +108,9 @@ _Sign in_
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Sumq5.png)
 
 ___
+-->
 
+<!-- Program Coordinator does this in R now
 ## Rough Draft Impact Report
  
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough1.png)
@@ -102,3 +122,4 @@ ___
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough4.png)
  
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Rough5.png)
+-->

@@ -9,6 +9,7 @@ accounts-and-software
 logins-and-passwords
 schedule
 graduate-fellows-meeting-and-bi-weekly-meeting
+how-to-calendar-invite-meetings-on-zoom
 workshops
 start-of-semester
 possible-workshops
@@ -25,10 +26,6 @@ checklist-for-a-typical-workday
 building-a-workshop
 workshops-building
 zoom-recording-downloads
-qualtrics-make-a-workflow-outdated-need-new-pictures
-how-to-schedule-meetings-on-zoom
 qcl-impact-report
-qualtrics-reports
+zoom---reports
 localist-reports
-summaries
-rough-draft-impact-report

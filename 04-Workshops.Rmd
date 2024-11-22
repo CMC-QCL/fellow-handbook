@@ -36,16 +36,16 @@ ___
     - Bash
     - Super Computing
 -	Others (need instructors)
-    -	Julia = Alfonso Landeros 
+    -	Julia 
     -	XSEDE
-    -	Bash = Brad McCauley 
-    -	Unix Shell and Git = Jeanine Finn j
-    -	MS Power Automate as Pre to Power BI = Cindy Cheng 
-    -	MS Power Query as Pre to Power BI = Cindy Cheng 
-    -	Alteryx = Brandon Bak 
-    -	Machine Learning = Aashita Kesarwani 
-    - Power BI = Jillian Seymour 
-    - STATA = William Lincoln
+    -	Bash 
+    -	Unix Shell and Git
+    -	MS Power Automate as Pre to Power BI 
+    -	MS Power Query as Pre to Power BI 
+    -	Alteryx
+    -	Machine Learning 
+    - Power BI
+    - STATA
     
 Note: Title now have to follow this format = R:Programming Basics    
 
@@ -810,6 +810,7 @@ __New attendees after closed registration__
 ![Issue Ticket tab on Confirmed Tickets page](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Section10_56.JPG)  
 
 *	Fill in all info
+    -   with the persons information, you might have to eamil them for that information
 ![Fill in all info](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Section10_57.JPG)  
 
 *	After filling out the form, the attendee will get an email from Localist
@@ -855,19 +856,19 @@ ___
 
 ## Buying a ticket – Making sure it works
 
-![Click on link at the workshop website](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying1.png)    
+*   Click on link on the workshop website 
 
 ![Webiste for the workshop](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying2.png)    
 
 ![Click register and register](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying3.png)    
 
-![Fill everything in](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying4.png)    
+![Fill everything in, there are more questions than the ones in the picture](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying4.png)    
 
 ![Complete all the way](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying5.png)    
 
 ![Make sure to get an email in your email](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying6.png)    
 
-![Make sure all the information is correct](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying7.png)  
+![Make sure all the information is correct, we do not put the zoom information on the ticket any more](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/buying7.png)  
  
 ___
 
@@ -890,33 +891,34 @@ This is if there is no workshop or appointment going on
             -	Get summaries
             -	Tools
             -	Point points
-            -	files
+            -	Files
             -	Licenses
 -	One week before work
     -	Localist and zoom
     -	Let Dr. Park know they are ready to be announced 
 -	Two days before work
-    -	Send out reminder emails to localist attendees for upcoming workshop
+    -	Send out reminder emails to Localist attendees for upcoming workshop
 -	Get licenses information out
     -	Close old Qualtrics surveys
     -	Make new Qualtrics surveys for upcoming workshops
     -	Make QR codes/Bit.ly for upcoming workshop
 	Other work
-	  -	Graphic Design
+	  -	Super Computing
+	  - Consultations  
 -	Make workshops
-    -	SQL
-    -	EXCEL
-    -	GIS
 -	Workday
     -	Put in schedule
     
 ___
-    
+
 ## Building a Workshop
 
-__Github__ <a name="Github"></a>
+<font size="5">__Github__ <a name="Github"></a></font>
 
+Make a GitHub Repo
 ![Make a GitHub Repo](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_58.JPG)
+
+Make pages on the Repo
 ![Make pages on the Repo](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_59.JPG)
 
 *	Files needed in Github
@@ -924,7 +926,7 @@ __Github__ <a name="Github"></a>
     -	Presentation pdf
     -	Files for hand-on activities
     -	README.md 
-        -	A summary of the workshop for localist and zoom
+        -	A summary of the workshop for Localist and Zoom
 
 ![A summary of the workshop for localist and zoom](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_60.JPG)
 
@@ -973,9 +975,9 @@ ___
 
 ## Workshops Building
 
-*	In the past, the way we offer our workshop to specific institute like Lowe was that we (Cindy) worked with their admin or student leader to find good times for their fellows and RAs and offer a separate workshop(s) for them. I am thinking we would want to offer them a separate GIS workshop(s).
+In the past, the way we offer our workshop to specific institute like Lowe was that we (Cindy) worked with their admin or student leader to find good times for their fellows and RAs and offer a separate workshop(s) for them.
 
-Who asked for QCL trainings: 
+Who asked for trainings: 
  
 brooke bernal (Rose Institute)  
 brittany bras(Rose Institute)  
@@ -985,7 +987,7 @@ jennifer feitosa (Psychology, asked for SPSS and Excel)
 Kara (UMA)
  
  
-Who you can ask for QCL workshops:
+Who YOU can ask for workshops:
  
 Jeanine Finn (Unix Shell and Git)  
 Brandon Bak (Alteryx)  
@@ -1000,9 +1002,11 @@ ___
 
 ## Zoom Recording Downloads
 
-We are reaching out today with a friendly and important reminder to please transfer or delete your older Zoom cloud recordings within your Zoom account to help ensure that we can continue to provide this service to our faculty and staff without accruing additional storage expenses.
+We will receive this email below:
 
-Our Zoom cloud recording storage currently has a shared quota of 1 terabyte for all users and about 1 gigabyte of storage per individual user. However, we now have several Zoom accounts that are way over the 1 gigabyte storage allotment. To collectively help save space, we recommend that all users download their Zoom recordings and store them in an alternate location, such as Box where much more storage space is available. Once you’ve stored the recordings in an alternate location, please make sure to go back and delete the recordings from your Zoom cloud storage.
+"We are reaching out today with a friendly and important reminder to please transfer or delete your older Zoom cloud recordings within your Zoom account to help ensure that we can continue to provide this service to our faculty and staff without accruing additional storage expenses.
+
+Our Zoom cloud recording storage currently has a shared quota of 1 terabyte for all users and about 1 gigabyte of storage per individual user. However, we now have several Zoom accounts that are way over the 1 gigabyte storage allotment. To collectively help save space, we recommend that all users download their Zoom recordings and store them in an alternate location, such as Box where much more storage space is available. Once you’ve stored the recordings in an alternate location, please make sure to go back and delete the recordings from your Zoom cloud storage."
 
 Action Needed:
 
@@ -1044,15 +1048,15 @@ Alternatively, if you’d like to use local recording instead with Zoom, we have
 
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording7.png)
 
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording8.png)
-
+![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording8.png) <br>
+Make sure you have changed the file names to something more telling of the video like (workshopname_date)<br>
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording9.png)
 
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording10.png)
 
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording11.png)
 ___
-
+<!-- We do not do this anymore
 ## Qualtrics Make a Workflow (outdated need new pictures)
 
 *	Sign-in Survey
@@ -1118,11 +1122,4 @@ ___
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual28.png)
 
 ___
-
-## How to schedule meetings on Zoom 
-
-
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting1.png)
-
- 
-![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/meeting2.png)
+-->

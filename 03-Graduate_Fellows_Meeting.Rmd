@@ -4,9 +4,6 @@
     - Titled: QCL Staff Notebook
     - Titled: QCL Workshop Notebook
 
-![folder look like](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section9_1A.jpg)
-
-
 -	Agenda  
     -	Write meeting notes  
         - Before meeting  
@@ -26,5 +23,19 @@ Date:
 #Other
 Workshop schedule
 ```
-        
-![Agenda notes example](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section9_2.JPG)
+___
+
+## How to calendar invite meetings on Zoom 
+
+For Dryruns and Online meetings <br>
+
+Dryruns are often done for new instructors (graduate fellows) and new workshops.<br> 
+Once a date is found that works for all, we then send to zoom meeting for online meetings<br>
+
+Click on Outlook Calendar(.ics)
+![ ](Images/meeting1.png)
+
+Add the attendees for the Dryruns and send 
+![ ](Images/meeting2.png)
+
+
