@@ -9,7 +9,18 @@ ___
 
 * Go on to Zoom and Export the same reports you have before for check in to put in the archive and double check the check ins
     -   Zoom > Reports > Usage > change the dates to the workshop > export participants with unique users with meeting data
-    -   Zoom > Surveys > Export Survey
+    -   Zoom > Surveys > Export Survey (Responses) > Top right hand corner there is an download button
+        -   rename file with (yyyy-MM-DD Name of workshop Time Instructor)
+        
+Click on survey <br>
+<img src= "Images/Zoomsurvey (3).png" alt="your-image-description" style="border: 2px solid grey;">
+ 
+Export Survey (Responses),Top right hand corner there is an download button <br>
+<img src= "Images/Zoomsurvey (1).png" alt="your-image-description" style="border: 2px solid grey;">
+ 
+All Results <br>
+<img src= "Images/Zoomsurvey (5).png" alt="your-image-description" style="border: 2px solid grey;">
+
 - Put them into a BOX folder and share the folder with Program Coordinator
 
 ___
