@@ -310,7 +310,9 @@ Step 4:
     - Virtual or In-Person (or both)  
     - Make sure Virtual is always on Top  
 ![Add a Ticket Types](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_9_9.JPG)
+How it looks with in-person ticket and wait list ticket
 ![Add a Ticket Types](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist6.png)
+How it looks with Zoom ticket
 ![Add a Ticket Types](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist6_1.png)
 
 Step 5:	
