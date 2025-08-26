@@ -12,16 +12,15 @@ output:
     - Receive ID
   - Go to Story House (14 on map)
     - Get access to infrastructure (doors)
-    - Also need a KEY for office room 
+<!--    - Also need a KEY for office room -->
 - Email and Username
-  - Setup appointment for IT (Jeff)
+  - Setup appointment for IT (Angelo)
     - help@cmc.edu
   - Obtain computer access
   - Get put into system
-- Kronos
+- Workday
   - Send email to Payroll
     - payroll@cmc.edu
-  - Find Kronos in Workday
   - Log in hours 
     - Talk to Program Assistant
 - Health Documents
@@ -59,7 +58,7 @@ output:
 -	Qualtrics  
     -	https://qfreeaccountssjc1.az1.qualtrics.com/login?path=%2FQ%2FMyProjectsSection&product=project-store-proxy  
 -	Localist  
-    -	https://events.cmc.edu/admin  
+    -	https://campusevents.cmc.edu/admin/  
 -	Zoom  
     -	https://cmc-its.zoom.us  
 -	Teams  
@@ -80,7 +79,7 @@ _Issues: contact another Graduate Fellow or IT (help@cmc.edu)_
 
 |Accounts                           |Username |Password |Talk To       |
 |:----------------------------------|:-------:|:-------:|-------------:|
-|CMC Self-Service Account Management|         |         |Help desk     |        
+|CMC Self-Service Account Management|         |         |Help desk     |    
 |CMC Email                          |         |         |Help desk     |  
 |Dashboards Events                  |         |         |Localist acct |   
 |GitHub                             |         |         |Dr. Park      |
@@ -104,16 +103,17 @@ _Firefox: bookmark websites_
 __Important Dates__  
 
 * Team meetings  
-    -	Biweekly: Wednesdays 10am -11am  
+    -	Weekly: Wednesdays 10am -11am  
 -	Graduate Fellow meetings  
     -	Talk to Dr. Park to set up best time  
-    -	Current Fellow meeting: Tuesday 10am-11am  
+    -	Current Fellow meeting: Tuesday 11am-12pm  
     -	New Time: _______________________  
 -	Workshops   
-    -	Wednesday 4:15pm-5:45pm   
-    -	Thursday 4:15pm-5:45pm   
+    -	Tuesdays/Wednesdays 3:00pm-5:00pm   
+    -	Fridays 1:30pm-3:30pm 
+    - Sometimes Saturdays 9:00am-5:00pm
 -	Staff Lunch days
-    -	Program Assistant will send out email  
+    -	Program Coordinator will send out email  
     - food provided  
 - Employees Schedule (20 hours a week)  
     -	Talk to Dr. Park
@@ -122,8 +122,8 @@ __Important Dates__
 
 |Monday	|Tuesday  |Wednesday |Thursday |Friday |
 |:------|:-------:|:--------:|:-------:|------:|
-||Current Fellow meeting: 10am-11am|Biweekly Team meeting: 10am -11am|||
-|||Workshop: 4:15pm-5:45pm|Workshop: 4:15pm-5:45pm||
+|DryRuns/BTS 11:30am-1:30pm|Current Fellow meeting: 11am-12pm|Weekly Team meeting: 10am -11am|||
+||Workshop: 3:00pm-5:00pm|Workshop: 3:00pm-5:00pm||Workshop: 1:30pm-3:30pm|
 
 _Days off: Holidays and Academic break_
 

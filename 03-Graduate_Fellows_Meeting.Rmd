@@ -1,12 +1,11 @@
 # Graduate Fellows Meeting and Bi-Weekly Meeting
 * One Note Application  
-    -	Titled: QCL Graduate Fellows Notebook  
-    - Titled: QCL Staff Notebook
-    - Titled: QCL Workshop Notebook
+    -	Titled: GF Fall 2025 Meeting Notes Notebook  
+    - Titled: FY2526 Meeting Notes
 
 -	Agenda  
     -	Write meeting notes  
-        - Before meeting  
+        - *Before meeting*  
     -	Follow along in the meeting  
     -	TO DOs  
         -	Your assignments for the week
@@ -17,7 +16,7 @@ Date:
 #Workshop Schedule
 #School Schedule
 #Workshops
-#Consulation
+#Consultation
 #Impact Report
 #ETC
 #Other
@@ -35,7 +34,8 @@ Once a date is found that works for all, we then send to zoom meeting for online
 Click on Outlook Calendar(.ics)
 ![ ](Images/meeting1.png)
 
-Add the attendees for the Dryruns and send 
+Add the attendees for the Dryruns and send (make sure it is in the right calendar)   
+Send all instructors calendar invites for their workshops
 ![ ](Images/meeting2.png)
 
 

@@ -16,6 +16,7 @@ possible-workshops
 confirming-dates-with-instructors
 workflow
 two-weeks-before-day-of-workshop
+one-week-before-day-of-workshop
 two-days-before-day-of-workshop
 day-before-day-of-workshop
 day-of-workshop
