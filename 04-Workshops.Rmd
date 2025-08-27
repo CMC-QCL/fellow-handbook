@@ -693,7 +693,7 @@ __[ ]&nbsp; Show up 30 minutes before workshop<br>__
 -   To ensure you have time to fix anything that is an issue.<br>
 
 <!-- Visual----------------------------------------------------------- Break -->
-
+<!--
 <font size="5">__Before of the Workshop__</font>
 
 __[ ]&nbsp; Get shorten links from bit.ly ready<br>__
@@ -732,6 +732,20 @@ Sign-In
 [QR Code Picture] 
  
 https://bit.ly/3rnkAxw
+-->
+Check In attendees
+
+The check button will be ready for the admin the day of the event  
+![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheck18)   
+
+You can check people in using the button and looking for their names  
+![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheck15)   
+  
+You can check people in with camera and their QR codes from their email, if it is in-person  
+![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheck16)     
+
+If you have a student who did not register come workshop you can add them into the check in on the day of this way. But we do not get any of the details of questions.     
+![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheck17)   
 
 Exit Survey
 
@@ -888,6 +902,11 @@ ___
 __Check attendee’s emails__
 
 *	Fix emails, sometimes they misspell their emails
+
+__Attendees Cancelling their tickets__
+
+They can cancel from the ticket site or they will send us an email and we will cancel them ourselves as a VOID ticket 
+![cancel](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcancelling1.png)  
 
 ___
 
@@ -1093,7 +1112,7 @@ Make sure you have changed the file names to something more telling of the video
 
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording11.png)
 ___
-<!-- We do not do this anymore
+<!-- Program coordinator does this now
 ## Qualtrics Make a Workflow (outdated need new pictures)
 
 *	Sign-in Survey
