@@ -312,14 +312,15 @@ Step 4:
 ![Add a Ticket Types](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_9_9.JPG)
 How it looks with in-person ticket and wait list ticket
 ![Add a Ticket Types](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist6.png)
-How it looks with Zoom ticket
-![Add a Ticket Types](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist6_1.png)
 
 Step 5:	
 
 * Add a in-person ticket name is In-Person and drag to the right ticket type 
+    - make sure all the information is correct, zoom should be more like in-person "ticket type message" we changed it recently
     - Then go into additional ticket options  
-![Add a Virtual ticket name is ZOOM and drag to the right ticket type (pic wrong)](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist8.png)
+![Add a Virtual ticket name is ZOOM and drag to the right ticket type (pic wrong)](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist8.png)  
+How it looks with Zoom ticket    
+![Add a Ticket Types](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Localist6_1.png)
 
 Step 6:	
 
@@ -838,8 +839,8 @@ ___
 
 ### Workshop Issues
 
-__New attendees after closed registration__
-
+__New attendees after closed registration__  
+Change this to reflect the new questions we ask  
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Section10_55.JPG) 
 
 * Issue Ticket tab on Confirmed Tickets page
@@ -917,7 +918,7 @@ This is if there is no workshop or appointment going on
     -	Send any emails that have been on TODO list
     -	Organize your emails in their respective folders  
 ![Organize your emails in their respective folders](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Checklist1.png)
-* Update QCL website
+* Update everyone
 -	Day after workshop
     -	Send out email of closing workshop
         -	Recording, survey links, thank you

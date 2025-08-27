@@ -25,7 +25,6 @@ All Results <br>
 
 ___
     
-<!-- We do not do this anymore, we have Zoom Surveys now
 ## Qualtrics – Reports
  
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq1.png)
@@ -47,7 +46,6 @@ ___
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Reportsq9.png)
 
 ___
--->
 
 ## Localist – Reports
 
