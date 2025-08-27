@@ -749,17 +749,14 @@ If you have a student who did not register come workshop you can add them into t
 
 Exit Survey
 
-[QR Code Picture]
- 
-https://bit.ly/3rofAZq
-```
+Have a scheduled email to send out at the end of the workshop to their emails as well as a QR code
+
+
 </font>
 
 __[ ]&nbsp; In-person? Set-up camera<br>__
 
 -   Includes, tripod and hubble/sony camera<br>
-
-<!-- Visual----------------------------------------------------------- Break -->
 
 <font size="5">__During of the Workshop__</font>
 
