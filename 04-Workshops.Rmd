@@ -736,16 +736,16 @@ https://bit.ly/3rnkAxw
 Check In attendees
 
 The check button will be ready for the admin the day of the event  
-![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheck18)   
+![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheckin18.png)   
 
 You can check people in using the button and looking for their names  
-![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheck15)   
+![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheckin15.png)   
   
 You can check people in with camera and their QR codes from their email, if it is in-person  
-![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheck16)     
+![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheckin16.png)     
 
 If you have a student who did not register come workshop you can add them into the check in on the day of this way. But we do not get any of the details of questions.     
-![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheck17)   
+![checkin](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/refs/heads/main/Images/Localistcheckin17.png)   
 
 Exit Survey
 
