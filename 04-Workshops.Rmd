@@ -42,12 +42,17 @@ ___
     -	Unix Shell and Git
     -	MS Power Automate as Pre to Power BI 
     -	MS Power Query as Pre to Power BI 
-    -	Alteryx
     -	Machine Learning 
     - Power BI
     - STATA
     
 Note: Title now have to follow this format = R:Programming Basics    
+
+<!-- 
+Prior workshops
+  -	Alteryx 
+  - Tableau
+-->
 
 ___
 
