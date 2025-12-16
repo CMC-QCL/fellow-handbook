@@ -14,30 +14,30 @@ ___
 ## Possible Workshops
 
 *	Dr. Park
-    - Python Data Manipulation with Pandas and NumPy (level 2)
+    - Python: Programming Basics (Level 1)
+    - Python Data Manipulation with Pandas and NumPy (Level 2)
 -	Bhaven
-    -	Data Wrangling with R (level 2)
-    - R Visualization (level 2)
+    - LaTeX: Equation Writing (Level 1)
+    - R: Programming Basics (Level 1)
+    -	Data Wrangling with R (Level 2)
+    - R Visualization (Level 2)
 -	Vanessa
-    - Excel: Conditioning Data (level 2)  
-    - Excel: Power Query (level 2)  
-    - Excel: ToolPak (level 2)  
-    - ArcGIS Online: Mapping your data (level 2)  
--	Graduate Fellow
-    -	SQL Basics(level 1)
-    - Git: Version Control for Beginners(level 1)
-    - Bash (level 1)
-    - High Performance Computing (level 1)
-    -	Excel: Exploring Data (level 1) 
-    -	ArcGIS Online: Exploring Libraries (level 1)
-    -	Get Equipped with LaTeX  (level 1)               
-    -	Get Equipped with MATLAB  (level 1)  
-    -	R Programming Basics  (level 1) 
-    - Python Programming Basics(level 1) 
-    -	Tableau  (level 1) 
+    - Excel: Exploring Data (Level 1)
+    - Excel: Conditioning Data (Level 2)  
+    - ArcGIS Online: Mapping your Data (Level 2)  
+-	Graduate Fellows
+    -	SQL Basics (Level 1)
+    - Git: Version Control for Beginners (Level 1)
+    - Bash (Level 1)
+    - High Performance Computing (Level 1)
+    -	Excel: Exploring Data (Level 1) 
+    -	ArcGIS Online: Exploring Libraries (Level 1)
+    -	Get Equipped with LaTeX  (Level 1)               
+    -	Get Equipped with MATLAB (Level 1)  
+    -	R Programming Basics (Level 1) 
+    - Python Programming Basics (Level 1) 
 -	Others (need instructors)
     -	Julia 
-    -	XSEDE
     -	Bash 
     -	Unix Shell and Git
     -	MS Power Automate as Pre to Power BI 

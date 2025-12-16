@@ -31,3 +31,5 @@ qcl-impact-report
 zoom---reports
 qualtrics-reports
 localist-reports
+summaries
+rough-draft-impact-report
