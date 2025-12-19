@@ -1,6 +1,6 @@
 --- 
 title: "Graduate Fellows Handbook"
-author: "Vanessa Arias Casillas"
+author: "Vanessa Arias Casillas, Joan Puteri Zheng, Daniel Perez"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
