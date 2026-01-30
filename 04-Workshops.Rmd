@@ -505,7 +505,6 @@ _Check Registration for workshop_
 Check to make sure you don't have to activate the wait list and that no one canceled to add anyone new. 
 
 ### Day before day of workshop
-<!-- Program Coordinator does this now in zoom and its automated
 __Qualtrics__ <a name="Qualtrics"></a>
 
 Step 1: 
@@ -583,7 +582,7 @@ Make shorten links for the Qualtrics surveys
 You could make up the customize back-half or leave it how it is.
 
 ___
--->
+
 __In-person Workshop? Flyer Word doc__ <a name="Flyer Word doc"></a>
 
 *	Change to fit workshop
