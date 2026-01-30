@@ -1112,7 +1112,7 @@ Make sure you have changed the file names to something more telling of the video
 
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Recording11.png)
 ___
-<!-- Program coordinator does this now
+
 ## Qualtrics Make a Workflow (outdated need new pictures)
 
 *	Sign-in Survey
@@ -1178,4 +1178,4 @@ ___
 ![ ](https://raw.githubusercontent.com/CMC-QCL/fellow-handbook/main/Images/Qual28.png)
 
 ___
--->
+
